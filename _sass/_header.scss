@@ -1,0 +1,71 @@
+// ===== Header =====
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba($color-surface, 0.95);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid $color-border;
+}
+
+.site-header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: $space-md $space-lg;
+  max-width: $container-wide;
+}
+
+.site-logo {
+  font-family: $font-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: $color-text;
+  letter-spacing: -0.02em;
+
+  .logo-accent {
+    color: $color-accent;
+  }
+
+  &:hover {
+    color: $color-text;
+  }
+}
+
+.site-nav {
+  display: flex;
+  gap: $space-lg;
+
+  a {
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: $color-text-muted;
+    position: relative;
+
+    &::after {
+      content: "";
+      position: absolute;
+      bottom: -4px;
+      left: 0;
+      width: 0;
+      height: 2px;
+      background: $color-primary;
+      transition: width $transition;
+    }
+
+    &:hover {
+      color: $color-primary;
+      &::after {
+        width: 100%;
+      }
+    }
+  }
+}
+
+@media (max-width: $bp-sm) {
+  .site-nav {
+    gap: $space-md;
+    a { font-size: 0.85rem; }
+  }
+}

@@ -1,0 +1,78 @@
+# Jekyll configuration for ChristIAM-
+# https://jekyllrb.com/docs/configuration/
+
+title: ChristIAM-
+description: >-
+  A personal testimony of faith, transformation, and the journey of
+  walking with Christ.
+tagline: "I AM who I AM. — Exodus 3:14"
+author:
+  name: William Joshua Shumate
+  email: williamjoshuashumate-design@users.noreply.github.com
+
+url: "https://williamjoshuashumate-design.github.io"
+baseurl: "/ChristIAM-"
+
+# GitHub Pages / github-pages gem settings
+remote_theme: null
+github_username: williamjoshuashumate-design
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: null
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Permalinks
+permalink: /testimonies/:year/:month/:day/:title/
+
+# Pagination
+paginate: 5
+paginate_path: "/page/:num/"
+
+# Post defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "William Joshua Shumate"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - README.md
+  - LICENSE
+
+# Include directives
+include:
+  - _pages
+
+# Kramdown settings
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
+# Sass/SCSS settings
+sass:
+  style: compressed
+  load_paths:
+    - _sass

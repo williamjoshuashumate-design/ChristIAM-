@@ -1,0 +1,68 @@
+---
+layout: default
+---
+<section class="home-hero">
+  <div class="hero-content">
+    <h1 class="hero-title">I AM</h1>
+    <p class="hero-subtitle">
+      A testimony of faith, transformation, and the One who makes all things new.
+    </p>
+    <div class="hero-cta">
+      <a href="#testimonies" class="btn btn-primary">Read Testimonies</a>
+      <a href="#about" class="btn btn-secondary">Learn More</a>
+    </div>
+    <div class="hero-scripture">
+      <p class="scripture-text">"I AM who I AM."</p>
+      <p class="scripture-ref">— Exodus 3:14</p>
+    </div>
+  </div>
+</section>
+
+<section id="about" class="welcome-section">
+  <div class="container">
+    <h2>Welcome</h2>
+    <p>
+      ChristIAM- is more than a project — it's a testimony. A space to share stories of how
+      God's grace has moved, healed, and transformed lives. Here you'll find personal
+      accounts of faith, reflections on Scripture, and the journey of walking with the One
+      who calls Himself "I AM."
+    </p>
+    <p>
+      Whether you're seeking encouragement, exploring faith, or have a story of your own to
+      share, you're welcome here.
+    </p>
+  </div>
+</section>
+
+<section id="testimonies" class="testimonies-section">
+  <div class="container">
+    <h2>Featured Testimonies</h2>
+    <div class="testimony-grid">
+      {% if paginator %}
+        {% for post in paginator.posts %}
+          <article class="testimony-card">
+            <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+            <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+            <a href="{{ post.url | relative_url }}" class="read-more">Read More →</a>
+          </article>
+        {% endfor %}
+
+        <!-- Pagination -->
+        {% if paginator.total_pages > 1 %}
+          <nav class="pagination">
+            {% if paginator.previous_page %}
+              <a href="{{ paginator.previous_page_path | relative_url }}" class="prev">← Previous</a>
+            {% endif %}
+            <span class="page-num">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+            {% if paginator.next_page %}
+              <a href="{{ paginator.next_page_path | relative_url }}" class="next">Next →</a>
+            {% endif %}
+          </nav>
+        {% endif %}
+      {% else %}
+        <p class="coming-soon">New testimony entries coming soon.</p>
+      {% endif %}
+    </div>
+  </div>
+</section>
