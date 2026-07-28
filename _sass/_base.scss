@@ -1,0 +1,80 @@
+// ===== Base / Reset =====
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: $font-sans;
+  background-color: $color-bg;
+  color: $color-text;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-serif;
+  font-weight: 600;
+  line-height: 1.3;
+  color: $color-text;
+}
+
+a {
+  color: $color-primary;
+  text-decoration: none;
+  transition: color $transition;
+
+  &:hover {
+    color: $color-primary-light;
+  }
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+ul, ol {
+  padding-left: 1.5rem;
+}
+
+blockquote {
+  margin: $space-lg 0;
+  padding: $space-md $space-lg;
+  border-left: 4px solid $color-accent;
+  background: rgba($color-accent, 0.05);
+  font-style: italic;
+  color: $color-text-muted;
+}
+
+code {
+  font-family: "Fira Code", "Courier New", monospace;
+  font-size: 0.9em;
+  background: rgba($color-text, 0.06);
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+}
+
+pre {
+  background: #1a1a2e;
+  color: #e0e0e0;
+  padding: $space-lg;
+  border-radius: $radius;
+  overflow-x: auto;
+
+  code {
+    background: none;
+    padding: 0;
+    color: inherit;
+  }
+}

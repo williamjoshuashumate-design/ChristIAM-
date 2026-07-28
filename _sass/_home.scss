@@ -1,0 +1,166 @@
+// ===== Home Page =====
+
+.home-hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 85vh;
+  text-align: center;
+  background: linear-gradient(180deg, $color-bg 0%, darken($color-bg, 3%) 100%);
+  padding: $space-2xl $space-lg;
+}
+
+.hero-content {
+  max-width: $container-max;
+}
+
+.hero-title {
+  font-family: $font-serif;
+  font-size: clamp(3.5rem, 12vw, 8rem);
+  font-weight: 700;
+  letter-spacing: -0.04em;
+  color: $color-primary;
+  margin-bottom: $space-lg;
+  line-height: 1;
+}
+
+.hero-subtitle {
+  font-family: $font-serif;
+  font-size: clamp(1.1rem, 3vw, 1.6rem);
+  font-style: italic;
+  color: $color-text-muted;
+  margin-bottom: $space-2xl;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero-cta {
+  display: flex;
+  gap: $space-md;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: $space-2xl;
+}
+
+.hero-scripture {
+  margin-top: $space-2xl;
+  padding-top: $space-xl;
+  border-top: 1px solid $color-border;
+}
+
+.scripture-text {
+  font-family: $font-serif;
+  font-size: 1.5rem;
+  font-style: italic;
+  color: $color-primary;
+}
+
+.scripture-ref {
+  font-size: 0.95rem;
+  color: $color-text-muted;
+  margin-top: $space-xs;
+}
+
+// Welcome Section
+.welcome-section {
+  text-align: center;
+  padding: $space-2xl $space-lg;
+
+  h2 {
+    font-size: 2rem;
+    margin-bottom: $space-lg;
+  }
+
+  p {
+    font-size: 1.1rem;
+    color: $color-text-muted;
+    max-width: 640px;
+    margin: 0 auto $space-md;
+  }
+}
+
+// Testimonies Section
+.testimonies-section {
+  padding: $space-xl $space-lg;
+  background: $color-surface;
+  border-top: 1px solid $color-border;
+  border-bottom: 1px solid $color-border;
+
+  h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: $space-xl;
+  }
+}
+
+.testimony-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: $space-lg;
+}
+
+.testimony-card {
+  padding: $space-lg;
+  background: $color-bg;
+  border-radius: $radius-lg;
+  border: 1px solid $color-border;
+  transition: transform $transition, box-shadow $transition;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  }
+
+  h3 {
+    font-size: 1.3rem;
+    margin-bottom: $space-xs;
+
+    a { color: $color-text; }
+  }
+
+  time {
+    font-size: 0.85rem;
+    color: $color-text-muted;
+    display: block;
+    margin-bottom: $space-sm;
+  }
+
+  p {
+    color: $color-text-muted;
+    font-size: 0.95rem;
+  }
+
+  .read-more {
+    display: inline-block;
+    margin-top: $space-sm;
+    font-weight: 500;
+    font-size: 0.9rem;
+  }
+}
+
+.coming-soon {
+  text-align: center;
+  color: $color-text-muted;
+  font-style: italic;
+  padding: $space-xl;
+}
+
+// Pagination
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: $space-lg;
+  margin-top: $space-xl;
+
+  .page-num {
+    font-size: 0.9rem;
+    color: $color-text-muted;
+  }
+
+  a {
+    font-weight: 500;
+    font-size: 0.9rem;
+  }
+}
