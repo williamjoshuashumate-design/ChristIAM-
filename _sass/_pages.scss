@@ -30,13 +30,16 @@
   font-family: $font-serif;
 }
 
-// ===== Foundation Page =====
+// ===== Shared Section Styles =====
 
 .foundation-intro,
 .foundation-call,
 .foundation-links,
 .gallery-intro,
-.gallery-connection {
+.gallery-connection,
+.kingdom-intro,
+.kingdom-vision,
+.kingdom-connect {
   max-width: $container-max;
   margin: 0 auto;
   padding: $space-lg $space-md;
@@ -61,6 +64,8 @@
     text-underline-offset: 3px;
   }
 }
+
+// ===== Foundation Page =====
 
 .foundation-stats {
   max-width: $container-wide;
@@ -352,4 +357,168 @@
   padding: $space-xl $space-md;
   border-top: 1px solid $color-border;
   margin-top: $space-xl;
+}
+
+// ===== Kingdom Page =====
+
+.kingdom-grid {
+  max-width: $container-wide;
+  margin: 0 auto;
+  padding: $space-lg $space-md;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: $space-lg;
+
+  @media (max-width: $bp-lg) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (max-width: $bp-sm) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.kingdom-card {
+  display: flex;
+  flex-direction: column;
+  padding: $space-xl $space-lg;
+  background: $color-surface;
+  border: 1px solid $color-border;
+  border-radius: $radius-lg;
+  text-decoration: none;
+  color: $color-text;
+  transition: $transition;
+  position: relative;
+
+  &:hover {
+    border-color: $color-accent;
+    transform: translateY(-4px);
+    box-shadow: 0 8px 28px rgba($color-primary, 0.1);
+    text-decoration: none;
+  }
+}
+
+.kingdom-icon {
+  margin-bottom: $space-md;
+  color: $color-primary;
+  opacity: 0.7;
+}
+
+.kingdom-card h3 {
+  font-family: $font-serif;
+  font-size: 1.4rem;
+  color: $color-primary;
+  margin-bottom: $space-xs;
+}
+
+.kingdom-tagline {
+  font-size: 0.95rem;
+  color: $color-accent;
+  font-style: italic;
+  margin-bottom: $space-md;
+}
+
+.kingdom-desc {
+  font-size: 0.9rem;
+  color: $color-text-muted;
+  line-height: 1.6;
+  margin-bottom: $space-md;
+  flex-grow: 1;
+}
+
+.kingdom-status {
+  display: inline-block;
+  align-self: flex-start;
+  padding: 0.3rem 0.8rem;
+  border-radius: 999px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.kingdom-live {
+  background: rgba($color-primary, 0.12);
+  color: $color-primary;
+}
+
+.kingdom-building {
+  background: rgba($color-accent, 0.18);
+  color: #a68a4f;
+}
+
+.kingdom-preparing {
+  background: rgba($color-text-muted, 0.15);
+  color: $color-text-muted;
+}
+
+.kingdom-vision {
+  text-align: center;
+  padding: $space-xl $space-md;
+  border-top: 1px solid $color-border;
+  margin-top: $space-xl;
+
+  .vision-content {
+    max-width: $container-max;
+    margin: 0 auto;
+  }
+
+  .kingdom-verse {
+    font-family: $font-serif;
+    font-style: italic;
+    font-size: 1.1rem;
+    color: $color-primary;
+    padding: $space-md $space-lg;
+    background: rgba($color-accent, 0.06);
+    border-radius: $radius;
+    margin: $space-lg auto;
+    max-width: 90%;
+  }
+}
+
+.kingdom-connect {
+  padding: $space-xl $space-md;
+  border-top: 1px solid $color-border;
+
+  h2 {
+    text-align: center;
+    margin-bottom: $space-lg;
+  }
+
+  .connect-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: $space-md;
+    max-width: 600px;
+    margin: 0 auto;
+
+    @media (max-width: $bp-sm) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .connect-link {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: $space-md $space-lg;
+    background: $color-surface;
+    border: 1px solid $color-border;
+    border-radius: $radius;
+    text-decoration: none;
+    color: $color-primary;
+    font-weight: 500;
+    transition: $transition;
+
+    &:hover {
+      border-color: $color-accent;
+      background: rgba($color-accent, 0.05);
+      text-decoration: none;
+    }
+
+    .connect-arrow {
+      font-size: 1.2rem;
+      color: $color-accent;
+    }
+  }
 }
