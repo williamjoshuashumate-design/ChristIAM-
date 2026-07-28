@@ -7,31 +7,16 @@ layout: default
   <div class="container">
     <h2>Featured Testimonies</h2>
     <div class="testimony-grid">
-      {% if paginator %}
-        {% for post in paginator.posts %}
-          <article class="testimony-card">
-            <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
-            <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
-            <a href="{{ post.url | relative_url }}" class="read-more">Read More →</a>
-          </article>
-        {% endfor %}
-
-        <!-- Pagination -->
-        {% if paginator.total_pages > 1 %}
-          <nav class="pagination">
-            {% if paginator.previous_page %}
-              <a href="{{ paginator.previous_page_path | relative_url }}" class="prev">← Previous</a>
-            {% endif %}
-            <span class="page-num">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-            {% if paginator.next_page %}
-              <a href="{{ paginator.next_page_path | relative_url }}" class="next">Next →</a>
-            {% endif %}
-          </nav>
-        {% endif %}
+      {% for post in site.posts %}
+        <article class="testimony-card">
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+          <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+          <a href="{{ post.url | relative_url }}" class="read-more">Read More →</a>
+        </article>
       {% else %}
         <p class="coming-soon">New testimony entries coming soon.</p>
-      {% endif %}
+      {% endfor %}
     </div>
   </div>
 </section>

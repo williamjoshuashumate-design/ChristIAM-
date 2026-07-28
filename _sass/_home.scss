@@ -6,7 +6,7 @@
   justify-content: center;
   min-height: 85vh;
   text-align: center;
-  background: linear-gradient(180deg, $color-bg 0%, darken($color-bg, 3%) 100%);
+  background: linear-gradient(180deg, $color-bg 0%, #f4f3ec 100%);
   padding: $space-2xl $space-lg;
 }
 
@@ -144,23 +144,4 @@
   color: $color-text-muted;
   font-style: italic;
   padding: $space-xl;
-}
-
-// Pagination
-.pagination {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: $space-lg;
-  margin-top: $space-xl;
-
-  .page-num {
-    font-size: 0.9rem;
-    color: $color-text-muted;
-  }
-
-  a {
-    font-weight: 500;
-    font-size: 0.9rem;
-  }
 }
