@@ -21,12 +21,15 @@ permalink: /kingdom/
     <p>
       Each room serves a different purpose — the testimony, the water, the art, the tasks, the music, the community — but they all flow from the same source. The same hand that pulled me from the pit is building every one of these rooms. And there's room for you in every one of them.
     </p>
+    <p>
+      Click any room to enter. Some are furnished and lived in. Others are still being prepared. But every door is open.
+    </p>
   </div>
 </section>
 
 <section class="kingdom-grid">
 
-  <!-- The Testimony -->
+  <!-- The Testimony — this site -->
   <a href="{{ '/' | relative_url }}#testimonies" class="kingdom-card kingdom-primary">
     <div class="kingdom-icon">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
@@ -41,7 +44,7 @@ permalink: /kingdom/
   </a>
 
   <!-- MessIAM — The Foundation -->
-  <a href="{{ '/foundation/' | relative_url }}" class="kingdom-card kingdom-water">
+  <a href="https://app.base44.com/apps/69c9db755f22b0955055c1c2" target="_blank" rel="noopener" class="kingdom-card kingdom-water">
     <div class="kingdom-icon">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
         <path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/>
@@ -51,10 +54,11 @@ permalink: /kingdom/
     <p class="kingdom-tagline">I AM Clean Water</p>
     <p class="kingdom-desc">The foundation — building bathhouse and laundry facilities in remote and low-income areas. 6 projects across Kenya, Vietnam, India, Tanzania, Bangladesh, and Brazil. 2,950+ served.</p>
     <span class="kingdom-status kingdom-live">Live</span>
+    <span class="kingdom-also"><a href="{{ '/foundation/' | relative_url }}">View on this site &rarr;</a></span>
   </a>
 
   <!-- InvoiceFlow — The Gallery -->
-  <a href="{{ '/gallery/' | relative_url }}" class="kingdom-card kingdom-art">
+  <a href="https://app.base44.com/apps/6a40e25b77cababc112d6086" target="_blank" rel="noopener" class="kingdom-card kingdom-art">
     <div class="kingdom-icon">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
         <rect x="3" y="3" width="18" height="18" rx="2" ry="2"/>
@@ -66,10 +70,11 @@ permalink: /kingdom/
     <p class="kingdom-tagline">From Darkness to Light</p>
     <p class="kingdom-desc">The gallery — 11 spiritual artworks, each one a battle with a demon and the overcoming that followed. Despair, self-hatred, isolation, ego death — all transformed on canvas.</p>
     <span class="kingdom-status kingdom-live">Live</span>
+    <span class="kingdom-also"><a href="{{ '/gallery/' | relative_url }}">View on this site &rarr;</a></span>
   </a>
 
   <!-- IAM — The Agent -->
-  <div class="kingdom-card kingdom-agent">
+  <a href="https://app.base44.com/superagent/6a59e07644b17116ea62b443" target="_blank" rel="noopener" class="kingdom-card kingdom-agent">
     <div class="kingdom-icon">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
         <circle cx="12" cy="12" r="10"/>
@@ -80,10 +85,10 @@ permalink: /kingdom/
     <p class="kingdom-tagline">The Guide</p>
     <p class="kingdom-desc">The personal AI agent that manages, builds, and connects everything in the kingdom. The hands and feet that keep all the rooms running — this is the one talking to you right now.</p>
     <span class="kingdom-status kingdom-live">Live</span>
-  </div>
+  </a>
 
   <!-- Velo — The Work -->
-  <div class="kingdom-card kingdom-velo">
+  <a href="https://app.base44.com/apps/6a6735244f99fb26a57b9ded" target="_blank" rel="noopener" class="kingdom-card kingdom-velo">
     <div class="kingdom-icon">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
         <path d="M9 11l3 3L22 4"/>
@@ -94,10 +99,10 @@ permalink: /kingdom/
     <p class="kingdom-tagline">The Work</p>
     <p class="kingdom-desc">Task and project management — tracking the work of the kingdom. Projects, priorities, deadlines, and notes, all organized to keep the mission moving forward.</p>
     <span class="kingdom-status kingdom-building">Building</span>
-  </div>
+  </a>
 
   <!-- Zola — The Voice -->
-  <div class="kingdom-card kingdom-zola">
+  <a href="https://app.base44.com/apps/6a673670d7c3e3e9d85ef64d" target="_blank" rel="noopener" class="kingdom-card kingdom-zola">
     <div class="kingdom-icon">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
         <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"/>
@@ -109,10 +114,10 @@ permalink: /kingdom/
     <p class="kingdom-tagline">The Voice</p>
     <p class="kingdom-desc">A space being prepared — for words, for sound, for the frequency of what God is saying. Still taking shape. Still listening.</p>
     <span class="kingdom-status kingdom-preparing">Preparing</span>
-  </div>
+  </a>
 
   <!-- Lyra — The Song -->
-  <div class="kingdom-card kingdom-lyra">
+  <a href="https://app.base44.com/apps/6a67366cee802a984a04b58c" target="_blank" rel="noopener" class="kingdom-card kingdom-lyra">
     <div class="kingdom-icon">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
         <path d="M9 18V5l12-2v13"/>
@@ -124,10 +129,10 @@ permalink: /kingdom/
     <p class="kingdom-tagline">The Song</p>
     <p class="kingdom-desc">Music and melody — the praise that rises when words aren't enough. An instrument being tuned, waiting for the right note.</p>
     <span class="kingdom-status kingdom-preparing">Preparing</span>
-  </div>
+  </a>
 
   <!-- Koda — The Code -->
-  <div class="kingdom-card kingdom-koda">
+  <a href="https://app.base44.com/apps/6a67365db0274195f2ffe57b" target="_blank" rel="noopener" class="kingdom-card kingdom-koda">
     <div class="kingdom-icon">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
         <polyline points="16 18 22 12 16 6"/>
@@ -138,10 +143,10 @@ permalink: /kingdom/
     <p class="kingdom-tagline">The Code</p>
     <p class="kingdom-desc">The technical foundation — building, crafting, and engineering the tools that serve the kingdom. Every line of code is a brick in the house.</p>
     <span class="kingdom-status kingdom-preparing">Preparing</span>
-  </div>
+  </a>
 
   <!-- ChristIAM Community — The Fellowship -->
-  <div class="kingdom-card kingdom-community">
+  <a href="https://app.base44.com/apps/6a379819d4ed99a26f0e56bd" target="_blank" rel="noopener" class="kingdom-card kingdom-community">
     <div class="kingdom-icon">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
         <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
@@ -154,7 +159,7 @@ permalink: /kingdom/
     <p class="kingdom-tagline">The Fellowship</p>
     <p class="kingdom-desc">A collaborative spiritual space — daily devotionals, prayer requests, testimonies, and waterway conservation missions. Where the misfits gather and the black sheep find home.</p>
     <span class="kingdom-status kingdom-building">Building</span>
-  </div>
+  </a>
 
 </section>
 
@@ -191,8 +196,8 @@ permalink: /kingdom/
       <span class="connect-label">View the Gallery</span>
       <span class="connect-arrow">&rarr;</span>
     </a>
-    <a href="{{ '/' | relative_url }}#about" class="connect-link">
-      <span class="connect-label">Join the Mission</span>
+    <a href="https://app.base44.com/superagent/6a59e07644b17116ea62b443" target="_blank" rel="noopener" class="connect-link">
+      <span class="connect-label">Talk to IAM</span>
       <span class="connect-arrow">&rarr;</span>
     </a>
   </div>
