@@ -80,6 +80,72 @@
   }
 }
 
+// Network Section
+.network-section {
+  padding: $space-2xl $space-lg;
+  background: $color-surface;
+  border-top: 1px solid $color-border;
+  border-bottom: 1px solid $color-border;
+
+  h2 {
+    text-align: center;
+    font-family: $font-serif;
+    font-size: 2rem;
+    color: $color-primary;
+    margin-bottom: $space-xl;
+  }
+}
+
+.network-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: $space-lg;
+  max-width: $container-wide;
+  margin: 0 auto;
+
+  @media (max-width: $bp-md) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.network-card {
+  display: block;
+  padding: $space-xl $space-lg;
+  background: $color-bg;
+  border: 1px solid $color-border;
+  border-radius: $radius-lg;
+  text-decoration: none;
+  color: $color-text;
+  transition: $transition;
+
+  &:hover {
+    border-color: $color-accent;
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba($color-primary, 0.08);
+    text-decoration: none;
+  }
+
+  h3 {
+    font-family: $font-serif;
+    font-size: 1.5rem;
+    color: $color-primary;
+    margin-bottom: $space-xs;
+  }
+
+  .network-tagline {
+    font-size: 0.95rem;
+    color: $color-accent;
+    font-style: italic;
+    margin-bottom: $space-md;
+  }
+
+  p {
+    font-size: 0.95rem;
+    color: $color-text-muted;
+    line-height: 1.6;
+  }
+}
+
 // Testimonies Section
 .testimonies-section {
   padding: $space-xl $space-lg;
