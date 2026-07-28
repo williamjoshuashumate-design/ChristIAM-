@@ -13,6 +13,8 @@ author:
 url: "https://williamjoshuashumate-design.github.io"
 baseurl: "/ChristIAM-"
 
+timezone: America/Chicago
+
 # GitHub Pages / github-pages gem settings
 remote_theme: null
 github_username: williamjoshuashumate-design
@@ -25,6 +27,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate
 
 # Permalinks
 permalink: /testimonies/:year/:month/:day/:title/
@@ -57,10 +60,6 @@ exclude:
   - .jekyll-cache
   - README.md
   - LICENSE
-
-# Include directives
-include:
-  - _pages
 
 # Kramdown settings
 kramdown:
