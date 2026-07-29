@@ -984,3 +984,187 @@
     pointer-events: none;
   }
 }
+
+// ===== About Page =====
+
+.about-intro,
+.about-story,
+.about-mission,
+.about-kingdom,
+.about-beliefs,
+.about-connect,
+.about-signature {
+  max-width: $container-max;
+  margin: 0 auto;
+  padding: $space-lg $space-md;
+
+  h2 {
+    font-family: $font-serif;
+    font-size: 1.75rem;
+    color: $color-primary;
+    margin-bottom: $space-md;
+  }
+
+  p {
+    line-height: 1.8;
+    margin-bottom: $space-md;
+    color: $color-text;
+  }
+
+  a {
+    color: $color-primary;
+    text-decoration: underline;
+    text-decoration-color: $color-accent;
+    text-underline-offset: 3px;
+  }
+}
+
+.name-breakdown {
+  list-style: none;
+  padding: 0;
+  margin: $space-lg 0;
+
+  li {
+    padding: $space-sm 0;
+    line-height: 1.7;
+    color: $color-text;
+    font-size: 1.05rem;
+
+    strong {
+      color: $color-primary;
+      font-family: $font-serif;
+    }
+  }
+}
+
+.mission-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: $space-md;
+  margin: $space-lg 0;
+
+  @media (max-width: $bp-sm) {
+    grid-template-columns: 1fr;
+  }
+
+  .mission-item {
+    padding: $space-lg $space-md;
+    background: $color-surface;
+    border: 1px solid $color-border;
+    border-radius: $radius-lg;
+    transition: $transition;
+
+    &:hover {
+      border-color: $color-accent;
+      transform: translateY(-2px);
+    }
+
+    h3 {
+      font-family: $font-serif;
+      font-size: 1.2rem;
+      color: $color-primary;
+      margin-bottom: $space-sm;
+    }
+
+    p {
+      font-size: 0.9rem;
+      color: $color-text-muted;
+      line-height: 1.6;
+      margin: 0;
+    }
+  }
+}
+
+.text-link {
+  display: inline-block;
+  font-family: $font-serif;
+  font-size: 1.1rem;
+  color: $color-primary;
+  text-decoration: none;
+  border-bottom: 2px solid $color-accent;
+  padding-bottom: 2px;
+  transition: $transition;
+
+  &:hover {
+    color: $color-accent;
+    text-decoration: none;
+  }
+}
+
+.connect-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: $space-sm;
+  margin: $space-md 0;
+}
+
+.connect-social {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: $space-sm;
+  margin-top: $space-md;
+  padding-top: $space-md;
+  border-top: 1px solid $color-border;
+
+  .social-label {
+    color: $color-text-muted;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin: 0;
+  }
+}
+
+.connect-link {
+  color: $color-primary;
+  text-decoration: none;
+  font-weight: 500;
+  transition: $transition;
+
+  &:hover {
+    color: $color-accent;
+    text-decoration: none;
+  }
+}
+
+.connect-sep {
+  color: $color-text-muted;
+}
+
+.about-signature {
+  text-align: center;
+  padding: $space-xl $space-md;
+  border-top: 1px solid $color-border;
+  margin-top: $space-xl;
+
+  .signature-verse {
+    font-family: $font-serif;
+    font-style: italic;
+    font-size: 1.15rem;
+    color: $color-primary;
+    margin-bottom: $space-lg;
+  }
+
+  .signature-name {
+    font-family: $font-serif;
+    font-size: 1.1rem;
+    color: $color-text-muted;
+    margin-bottom: $space-xs;
+  }
+
+  .signature-author {
+    font-family: $font-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: $color-primary;
+    margin-bottom: $space-lg;
+  }
+
+  .signature-license {
+    font-size: 0.8rem;
+    color: $color-text-muted;
+    margin: 0;
+  }
+}
