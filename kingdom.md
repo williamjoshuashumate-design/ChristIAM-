@@ -181,6 +181,23 @@ permalink: /kingdom/
   </div>
 </section>
 
+
+<!-- The Sound -->
+<section class="kingdom-sound">
+  <h2>The Sound</h2>
+  <p class="sound-intro">
+    "He's Got the Whole World in His Hands" — the traditional spiritual that carries the whole kingdom. Play it while you explore the rooms.
+  </p>
+  <div class="audio-player">
+    <audio controls loop preload="metadata">
+      <source src="https://base44.app/api/apps/6a59e07644b17116ea62b443/files/mp/public/6a59e07644b17116ea62b443/8ebecee71_he_got_world.mp3" type="audio/mpeg">
+      Your browser does not support audio playback.
+    </audio>
+  </div>
+  <p class="sound-credit">
+    Traditional spiritual · Melody transcribed by CambridgeBayWeather · <a href="https://commons.wikimedia.org/wiki/File:He%27s_Got_the_Whole_World_in_His_Hands.ogg" target="_blank" rel="noopener">CC BY-SA 3.0 via Wikimedia Commons</a>
+  </p>
+</section>
 <section class="kingdom-connect">
   <h2>Connect</h2>
   <div class="connect-grid">
