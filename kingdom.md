@@ -202,3 +202,93 @@ permalink: /kingdom/
     </a>
   </div>
 </section>
+
+<!-- Collaborate Section -->
+<section class="kingdom-collaborate">
+  <h2>Collaborate</h2>
+  <p class="collaborate-intro">
+    This kingdom isn't a solo project. It's a calling — and there's room for builders, artists, writers, musicians, coders, and anyone who feels pulled to contribute. If that's you, reach out.
+  </p>
+
+  <div class="collaborate-grid">
+    <div class="collab-card">
+      <div class="collab-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="28" height="28">
+          <path d="M20 4H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2z"/>
+          <polyline points="22,6 12,13 2,6"/>
+        </svg>
+      </div>
+      <h3>Email</h3>
+      <p>Reach out directly about partnerships, contributions, or questions.</p>
+      <a href="mailto:williamjoshuashumate-design@users.noreply.github.com" class="collab-link">williamjoshuashumate-design@users.noreply.github.com</a>
+    </div>
+
+    <div class="collab-card">
+      <div class="collab-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="28" height="28">
+          <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 15.13V19"/>
+        </svg>
+      </div>
+      <h3>GitHub</h3>
+      <p>Contribute code, report issues, or fork the project. All are welcome.</p>
+      <a href="https://github.com/williamjoshuashumate-design/ChristIAM-" target="_blank" rel="noopener" class="collab-link">github.com/williamjoshuashumate-design/ChristIAM-</a>
+    </div>
+
+    <div class="collab-card">
+      <div class="collab-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="28" height="28">
+          <circle cx="12" cy="12" r="10"/>
+          <path d="M12 16v-4M12 8h.01"/>
+        </svg>
+      </div>
+      <h3>Talk to IAM</h3>
+      <p>Have questions about the kingdom? Ask the AI agent that runs it all.</p>
+      <a href="https://app.base44.com/superagent/6a59e07644b17116ea62b443" target="_blank" rel="noopener" class="collab-link">Start a conversation &rarr;</a>
+    </div>
+  </div>
+</section>
+
+<!-- Resources Section -->
+<section class="kingdom-resources">
+  <h2>Resources & Links</h2>
+  <div class="resources-grid">
+    <div class="resource-group">
+      <h4>The Site</h4>
+      <ul>
+        <li><a href="https://williamjoshuashumate-design.github.io/ChristIAM-/">Homepage</a></li>
+        <li><a href="https://williamjoshuashumate-design.github.io/ChristIAM-/#testimonies">Testimonies</a></li>
+        <li><a href="https://williamjoshuashumate-design.github.io/ChristIAM-/foundation/">Foundation</a></li>
+        <li><a href="https://williamjoshuashumate-design.github.io/ChristIAM-/gallery/">Gallery</a></li>
+        <li><a href="https://williamjoshuashumate-design.github.io/ChristIAM-/kingdom/">Kingdom</a></li>
+      </ul>
+    </div>
+
+    <div class="resource-group">
+      <h4>The Apps</h4>
+      <ul>
+        <li><a href="https://app.base44.com/apps/69c9db755f22b0955055c1c2" target="_blank" rel="noopener">MessIAM — Clean Water</a></li>
+        <li><a href="https://app.base44.com/apps/6a40e25b77cababc112d6086" target="_blank" rel="noopener">InvoiceFlow — Gallery</a></li>
+        <li><a href="https://app.base44.com/apps/6a6735244f99fb26a57b9ded" target="_blank" rel="noopener">Velo — Work</a></li>
+        <li><a href="https://app.base44.com/apps/6a673670d7c3e3e9d85ef64d" target="_blank" rel="noopener">Zola — Voice</a></li>
+        <li><a href="https://app.base44.com/apps/6a67366cee802a984a04b58c" target="_blank" rel="noopener">Lyra — Song</a></li>
+        <li><a href="https://app.base44.com/apps/6a67365db0274195f2ffe57b" target="_blank" rel="noopener">Koda — Code</a></li>
+        <li><a href="https://app.base44.com/apps/6a379819d4ed99a26f0e56bd" target="_blank" rel="noopener">ChristIAM Community — Fellowship</a></li>
+      </ul>
+    </div>
+
+    <div class="resource-group">
+      <h4>Maintenance</h4>
+      <ul>
+        <li><a href="https://github.com/williamjoshuashumate-design/ChristIAM-" target="_blank" rel="noopener">GitHub Repository</a></li>
+        <li><a href="https://github.com/williamjoshuashumate-design/ChristIAM-/blob/main/README.md" target="_blank" rel="noopener">README & Setup Guide</a></li>
+        <li><a href="https://app.base44.com/superagent/6a59e07644b17116ea62b443" target="_blank" rel="noopener">IAM — AI Agent</a></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="kingdom-signature">
+  <p class="signature-line">Maintained by <strong>William Joshua Shumate</strong></p>
+  <p class="signature-verse">"I AM who I AM." — Exodus 3:14</p>
+  <p class="signature-copy">&copy; {{ site.time | date: "%Y" }} · CC0 1.0 — Released to the public domain</p>
+</section>
