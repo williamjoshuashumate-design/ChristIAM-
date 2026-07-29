@@ -914,3 +914,73 @@
     }
   }
 }
+
+// ===== Kingdom Social Media =====
+
+.kingdom-social {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: $space-2xl $space-md;
+  text-align: center;
+  border-top: 1px solid $color-border;
+
+  h2 {
+    font-family: $font-serif;
+    font-size: 1.75rem;
+    color: $color-primary;
+    margin-bottom: $space-sm;
+  }
+
+  .social-intro {
+    color: $color-text-muted;
+    margin-bottom: $space-lg;
+    font-style: italic;
+  }
+}
+
+.social-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: $space-md;
+}
+
+.social-link {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: $space-xs;
+  padding: $space-md $space-lg;
+  border: 1px solid $color-border;
+  border-radius: $radius;
+  text-decoration: none;
+  color: $color-text-muted;
+  transition: all 0.2s ease;
+  min-width: 80px;
+
+  svg {
+    transition: transform 0.2s ease;
+  }
+
+  span {
+    font-size: 0.8rem;
+    font-weight: 500;
+  }
+
+  &:hover {
+    color: $color-primary;
+    border-color: $color-accent;
+    background: rgba($color-accent, 0.05);
+    transform: translateY(-2px);
+
+    svg {
+      transform: scale(1.1);
+    }
+  }
+
+  &[href="#"] {
+    opacity: 0.4;
+    cursor: not-allowed;
+    pointer-events: none;
+  }
+}
