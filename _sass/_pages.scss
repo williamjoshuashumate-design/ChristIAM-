@@ -1168,3 +1168,356 @@
     margin: 0;
   }
 }
+
+// ===== MessIAM Page =====
+
+.messiam-hero {
+  max-width: $container-max;
+  margin: 0 auto;
+  padding: $space-lg $space-md;
+
+  .messiam-hero-content {
+    text-align: center;
+  }
+
+  .messiam-tagline-large {
+    font-family: $font-serif;
+    font-size: 1.4rem;
+    font-style: italic;
+    color: $color-primary;
+    line-height: 1.7;
+    margin-bottom: $space-lg;
+  }
+
+  p {
+    line-height: 1.8;
+    margin-bottom: $space-md;
+    color: $color-text;
+  }
+
+  .messiam-cta {
+    display: flex;
+    gap: $space-md;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: $space-xl;
+  }
+}
+
+.messiam-stats {
+  max-width: $container-wide;
+  margin: 0 auto;
+  padding: $space-lg $space-md;
+
+  .stat-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: $space-md;
+
+    @media (max-width: $bp-md) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  .stat-card {
+    text-align: center;
+    padding: $space-lg $space-md;
+    background: $color-surface;
+    border: 1px solid $color-border;
+    border-radius: $radius-lg;
+    transition: $transition;
+
+    &:hover {
+      border-color: $color-accent;
+      transform: translateY(-2px);
+    }
+  }
+
+  .stat-number {
+    display: block;
+    font-family: $font-serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: $color-primary;
+    line-height: 1;
+  }
+
+  .stat-label {
+    display: block;
+    margin-top: $space-xs;
+    font-size: 0.875rem;
+    color: $color-text-muted;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+}
+
+.messiam-projects {
+  max-width: $container-wide;
+  margin: 0 auto;
+  padding: $space-lg $space-md;
+
+  h2 {
+    font-family: $font-serif;
+    font-size: 1.75rem;
+    color: $color-primary;
+    margin-bottom: $space-sm;
+  }
+
+  .section-intro {
+    color: $color-text-muted;
+    margin-bottom: $space-xl;
+    font-size: 1rem;
+  }
+}
+
+.messiam-project {
+  display: grid;
+  grid-template-columns: 48px 1fr;
+  gap: $space-md;
+  margin-bottom: $space-lg;
+  padding: $space-lg;
+  background: $color-surface;
+  border: 1px solid $color-border;
+  border-radius: $radius-lg;
+  transition: $transition;
+
+  &:hover {
+    border-color: $color-accent;
+    box-shadow: 0 4px 20px rgba($color-primary, 0.08);
+  }
+
+  @media (max-width: $bp-sm) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.project-status-icon {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.messiam-project.completed .project-status-icon {
+  background: rgba($color-primary, 0.12);
+  color: $color-primary;
+}
+
+.messiam-project.in-progress .project-status-icon {
+  background: rgba($color-accent, 0.18);
+  color: #a68a4f;
+}
+
+.messiam-project.planning .project-status-icon {
+  background: rgba($color-text-muted, 0.15);
+  color: $color-text-muted;
+}
+
+.project-body {
+  h3 {
+    font-family: $font-serif;
+    font-size: 1.4rem;
+    color: $color-primary;
+    margin-bottom: $space-xs;
+  }
+
+  .project-location {
+    font-size: 0.875rem;
+    color: $color-accent;
+    margin-bottom: $space-sm;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .project-desc {
+    line-height: 1.7;
+    color: $color-text;
+    margin-bottom: $space-md;
+  }
+}
+
+.project-badges {
+  display: flex;
+  gap: $space-sm;
+  flex-wrap: wrap;
+}
+
+.messiam-platform {
+  max-width: $container-max;
+  margin: 0 auto;
+  padding: $space-xl $space-md;
+  border-top: 1px solid $color-border;
+
+  h2 {
+    font-family: $font-serif;
+    font-size: 1.75rem;
+    color: $color-primary;
+    margin-bottom: $space-md;
+  }
+
+  p {
+    line-height: 1.8;
+    margin-bottom: $space-lg;
+    color: $color-text;
+  }
+}
+
+.platform-features {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: $space-md;
+  margin: $space-lg 0;
+
+  @media (max-width: $bp-sm) {
+    grid-template-columns: 1fr;
+  }
+
+  .feature-card {
+    padding: $space-lg $space-md;
+    background: $color-surface;
+    border: 1px solid $color-border;
+    border-radius: $radius-lg;
+    transition: $transition;
+
+    &:hover {
+      border-color: $color-accent;
+      transform: translateY(-2px);
+    }
+
+    h3 {
+      font-family: $font-serif;
+      font-size: 1.15rem;
+      color: $color-primary;
+      margin-bottom: $space-sm;
+    }
+
+    p {
+      font-size: 0.9rem;
+      color: $color-text-muted;
+      line-height: 1.6;
+      margin: 0;
+    }
+  }
+}
+
+.platform-cta {
+  text-align: center;
+  margin-top: $space-lg;
+}
+
+.messiam-connection {
+  max-width: $container-max;
+  margin: 0 auto;
+  padding: $space-xl $space-md;
+  border-top: 1px solid $color-border;
+  text-align: center;
+
+  h2 {
+    font-family: $font-serif;
+    font-size: 1.75rem;
+    color: $color-primary;
+    margin-bottom: $space-md;
+  }
+
+  .connection-content {
+    max-width: 90%;
+    margin: 0 auto;
+  }
+
+  p {
+    line-height: 1.8;
+    margin-bottom: $space-md;
+    color: $color-text;
+  }
+}
+
+.messiam-links {
+  max-width: $container-wide;
+  margin: 0 auto;
+  padding: $space-xl $space-md;
+  border-top: 1px solid $color-border;
+
+  h2 {
+    font-family: $font-serif;
+    font-size: 1.75rem;
+    color: $color-primary;
+    margin-bottom: $space-lg;
+  }
+
+  .link-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: $space-md;
+
+    @media (max-width: $bp-md) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .network-link {
+    display: block;
+    padding: $space-lg $space-md;
+    background: $color-surface;
+    border: 1px solid $color-border;
+    border-radius: $radius-lg;
+    text-decoration: none;
+    color: $color-text;
+    transition: $transition;
+
+    &:hover {
+      border-color: $color-accent;
+      transform: translateY(-2px);
+      text-decoration: none;
+    }
+
+    h3 {
+      font-family: $font-serif;
+      font-size: 1.2rem;
+      color: $color-primary;
+      margin-bottom: $space-xs;
+    }
+
+    p {
+      font-size: 0.9rem;
+      color: $color-text-muted;
+      margin: 0;
+    }
+  }
+}
+
+.messiam-signature {
+  text-align: center;
+  padding: $space-xl $space-md;
+  border-top: 1px solid $color-border;
+  margin-top: $space-xl;
+
+  .signature-verse {
+    font-family: $font-serif;
+    font-style: italic;
+    font-size: 1.1rem;
+    color: $color-primary;
+    padding: $space-md $space-lg;
+    background: rgba($color-accent, 0.06);
+    border-radius: $radius;
+    margin: 0 auto $space-lg;
+    max-width: 90%;
+  }
+
+  .signature-name {
+    font-family: $font-serif;
+    font-size: 1.1rem;
+    color: $color-text-muted;
+    margin-bottom: $space-xs;
+  }
+
+  .signature-author {
+    font-family: $font-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: $color-primary;
+  }
+}
