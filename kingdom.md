@@ -220,7 +220,7 @@ permalink: /kingdom/
       </div>
       <h3>Email</h3>
       <p>Reach out directly about partnerships, contributions, or questions.</p>
-      <a href="mailto:williamjoshuashumate-design@users.noreply.github.com" class="collab-link">williamjoshuashumate-design@users.noreply.github.com</a>
+      <a href="mailto:williamjoshuashumate@gmail.com" class="collab-link">williamjoshuashumate@gmail.com</a>
     </div>
 
     <div class="collab-card">

@@ -723,3 +723,142 @@
     color: $color-text-muted;
   }
 }
+
+// ===== Homepage Contact Form =====
+
+.home-contact {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: $space-2xl $space-md;
+  border-top: 1px solid $color-border;
+  text-align: center;
+
+  h2 {
+    font-family: $font-serif;
+    font-size: 1.75rem;
+    color: $color-primary;
+    margin-bottom: $space-sm;
+  }
+
+  .contact-intro {
+    color: $color-text-muted;
+    margin-bottom: $space-lg;
+    line-height: 1.7;
+  }
+}
+
+.contact-form {
+  text-align: left;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: $space-md;
+  margin-bottom: $space-md;
+
+  @media (max-width: $bp-sm) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.form-group {
+  margin-bottom: $space-md;
+
+  label {
+    display: block;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: $color-primary;
+    margin-bottom: $space-xs;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  input, textarea {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    border: 1px solid $color-border;
+    border-radius: $radius;
+    font-size: 1rem;
+    font-family: $font-sans;
+    color: $color-text;
+    background: $color-surface;
+    transition: $transition;
+
+    &:focus {
+      outline: none;
+      border-color: $color-accent;
+      box-shadow: 0 0 0 3px rgba($color-accent, 0.12);
+    }
+
+    &::placeholder {
+      color: $color-text-muted;
+      opacity: 0.6;
+    }
+  }
+
+  textarea {
+    resize: vertical;
+    min-height: 120px;
+  }
+}
+
+.contact-submit {
+  width: 100%;
+  padding: 0.85rem 2rem;
+  font-size: 1rem;
+  cursor: pointer;
+
+  &:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+}
+
+.contact-status {
+  margin-top: $space-md;
+  text-align: center;
+  font-size: 0.95rem;
+  min-height: 1.5em;
+
+  &.contact-success {
+    color: $color-primary;
+    font-weight: 600;
+  }
+
+  &.contact-error {
+    color: #c0392b;
+  }
+}
+
+.contact-alt {
+  margin-top: $space-xl;
+  padding-top: $space-lg;
+  border-top: 1px solid $color-border;
+
+  p {
+    font-size: 0.9rem;
+    color: $color-text-muted;
+    margin-bottom: $space-xs;
+  }
+
+  .contact-email-link {
+    color: $color-primary;
+    text-decoration: none;
+    border-bottom: 1px solid $color-accent;
+    font-size: 0.9rem;
+    transition: $transition;
+
+    &:hover {
+      color: $color-accent;
+    }
+  }
+
+  .contact-sep {
+    color: $color-text-muted;
+    margin: 0 $space-xs;
+  }
+}
