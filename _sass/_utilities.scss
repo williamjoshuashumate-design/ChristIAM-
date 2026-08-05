@@ -15,11 +15,11 @@
 }
 
 .btn-primary {
-  background: $color-primary;
+  background: var(--color-primary);
   color: white;
 
   &:hover {
-    background: $color-primary-light;
+    background: var(--color-primary-light);
     color: white;
     transform: translateY(-2px);
   }
@@ -27,12 +27,12 @@
 
 .btn-secondary {
   background: transparent;
-  color: $color-primary;
-  border-color: $color-primary;
+  color: var(--color-primary);
+  border-color: var(--color-primary);
 
   &:hover {
-    background: rgba($color-primary, 0.08);
-    color: $color-primary;
+    background: var(--primary-soft);
+    color: var(--color-primary);
     transform: translateY(-2px);
   }
 }
