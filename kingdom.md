@@ -87,7 +87,7 @@ permalink: /kingdom/
     <span class="kingdom-status kingdom-live">Live</span>
   </a>
 
-  <!-- Velo — The Work -->
+  <!-- Seriff — The Work (was Velo) -->
   <a href="https://app.base44.com/apps/6a6735244f99fb26a57b9ded" target="_blank" rel="noopener" class="kingdom-card kingdom-velo">
     <div class="kingdom-icon">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
@@ -95,14 +95,14 @@ permalink: /kingdom/
         <path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/>
       </svg>
     </div>
-    <h3>Velo</h3>
+    <h3>Seriff</h3>
     <p class="kingdom-tagline">The Work</p>
     <p class="kingdom-desc">Task and project management — tracking the work of the kingdom. Projects, priorities, deadlines, and notes, all organized to keep the mission moving forward.</p>
     <span class="kingdom-status kingdom-building">Building</span>
   </a>
 
   <!-- Zola — The Voice -->
-  <a href="https://app.base44.com/apps/6a673670d7c3e3e9d85ef64d" target="_blank" rel="noopener" class="kingdom-card kingdom-zola">
+  <a href="https://app.base44.com/apps/6a6d0305a74e50dbc6d743d1" target="_blank" rel="noopener" class="kingdom-card kingdom-zola">
     <div class="kingdom-icon">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
         <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"/>
@@ -116,7 +116,7 @@ permalink: /kingdom/
     <span class="kingdom-status kingdom-preparing">Preparing</span>
   </a>
 
-  <!-- Lyra — The Song -->
+  <!-- Ophanim — The Song (was Lyra) -->
   <a href="https://app.base44.com/apps/6a67366cee802a984a04b58c" target="_blank" rel="noopener" class="kingdom-card kingdom-lyra">
     <div class="kingdom-icon">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
@@ -125,13 +125,13 @@ permalink: /kingdom/
         <circle cx="18" cy="16" r="3"/>
       </svg>
     </div>
-    <h3>Lyra</h3>
+    <h3>Ophanim</h3>
     <p class="kingdom-tagline">The Song</p>
-    <p class="kingdom-desc">Music and melody — the praise that rises when words aren't enough. An instrument being tuned, waiting for the right note.</p>
+    <p class="kingdom-desc">Music and melody — the praise that rises when words aren't enough. The wheels within wheels, turning with the rhythm of worship. An instrument being tuned, waiting for the right note.</p>
     <span class="kingdom-status kingdom-preparing">Preparing</span>
   </a>
 
-  <!-- Koda — The Code -->
+  <!-- Metatron — The Code (was Koda) -->
   <a href="https://app.base44.com/apps/6a67365db0274195f2ffe57b" target="_blank" rel="noopener" class="kingdom-card kingdom-koda">
     <div class="kingdom-icon">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
@@ -139,9 +139,36 @@ permalink: /kingdom/
         <polyline points="8 6 2 12 8 18"/>
       </svg>
     </div>
-    <h3>Koda</h3>
+    <h3>Metatron</h3>
     <p class="kingdom-tagline">The Code</p>
-    <p class="kingdom-desc">The technical foundation — building, crafting, and engineering the tools that serve the kingdom. Every line of code is a brick in the house.</p>
+    <p class="kingdom-desc">The technical foundation — building, crafting, and engineering the tools that serve the kingdom. Every line of code is a brick in the house. The celestial scribe writes it all down.</p>
+    <span class="kingdom-status kingdom-preparing">Preparing</span>
+  </a>
+
+  <!-- Liberty — The Freedom -->
+  <a href="https://app.base44.com/apps/6a673670d7c3e3e9d85ef64d" target="_blank" rel="noopener" class="kingdom-card kingdom-liberty">
+    <div class="kingdom-icon">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
+        <path d="M12 2v20M5 7l7-5 7 5M5 12l7-5 7 5M5 17l7-5 7 5"/>
+      </svg>
+    </div>
+    <h3>Liberty</h3>
+    <p class="kingdom-tagline">The Freedom</p>
+    <p class="kingdom-desc">Where the chains fall off — freedom from addiction, freedom from the past, freedom to become who you were made to be. A room still being prepared for those who are still finding their way out.</p>
+    <span class="kingdom-status kingdom-preparing">Preparing</span>
+  </a>
+
+  <!-- Cherub — The Guardians -->
+  <a href="https://app.base44.com/apps/6a0bf0e602e679b1faafd8f4" target="_blank" rel="noopener" class="kingdom-card kingdom-cherub">
+    <div class="kingdom-icon">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
+        <path d="M12 2L4 7v6c0 5 3.5 9 8 11 4.5-2 8-6 8-11V7l-8-5z"/>
+        <path d="M12 8v4M12 16h.01"/>
+      </svg>
+    </div>
+    <h3>Cherub</h3>
+    <p class="kingdom-tagline">The Guardians</p>
+    <p class="kingdom-desc">Protection, presence, and the things too sacred to explain. The guardians at the gate — watching, waiting, keeping what is holy. Purpose still being revealed.</p>
     <span class="kingdom-status kingdom-preparing">Preparing</span>
   </a>
 
@@ -195,52 +222,33 @@ permalink: /kingdom/
     </audio>
   </div>
   <p class="sound-credit">
-    Traditional spiritual · Melody transcribed by CambridgeBayWeather · <a href="https://commons.wikimedia.org/wiki/File:He%27s_Got_the_Whole_World_in_His_Hands.ogg" target="_blank" rel="noopener">CC BY-SA 3.0 via Wikimedia Commons</a>
+    Traditional spiritual · Melody transcribed by Camb
   </p>
-</section>
-<section class="kingdom-connect">
-  <h2>Connect</h2>
-  <div class="connect-grid">
-    <a href="{{ '/' | relative_url }}#testimonies" class="connect-link">
-      <span class="connect-label">Read the Testimony</span>
-      <span class="connect-arrow">&rarr;</span>
-    </a>
-    <a href="{{ '/foundation/' | relative_url }}" class="connect-link">
-      <span class="connect-label">Support the Foundation</span>
-      <span class="connect-arrow">&rarr;</span>
-    </a>
-    <a href="{{ '/gallery/' | relative_url }}" class="connect-link">
-      <span class="connect-label">View the Gallery</span>
-      <span class="connect-arrow">&rarr;</span>
-    </a>
-    <a href="https://app.base44.com/superagent/6a59e07644b17116ea62b443" target="_blank" rel="noopener" class="connect-link">
-      <span class="connect-label">Talk to IAM</span>
-      <span class="connect-arrow">&rarr;</span>
-    </a>
-  </div>
+  <p class="sound-credit">
+    Traditional spiritual · Melody transcribed by Camb
+  </p>
 </section>
 
 <!-- Collaborate Section -->
-<section class="kingdom-collaborate">
+<section class="kingdom-connect">
   <h2>Collaborate</h2>
-  <p class="collaborate-intro">
-    This kingdom isn't a solo project. It's a calling — and there's room for builders, artists, writers, musicians, coders, and anyone who feels pulled to contribute. If that's you, reach out.
+  <p class="connect-intro">
+    The kingdom is built with open hands. If you want to contribute — code, art, water projects, prayer, or just encouragement — reach out.
   </p>
-
-  <div class="collaborate-grid">
-    <div class="collab-card">
+  <div class="connect-grid">
+    <div class="connect-card">
       <div class="collab-icon">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="28" height="28">
-          <path d="M20 4H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2z"/>
+          <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
           <polyline points="22,6 12,13 2,6"/>
         </svg>
       </div>
       <h3>Email</h3>
-      <p>Reach out directly about partnerships, contributions, or questions.</p>
-      <a href="mailto:williamjoshuashumate@gmail.com" class="collab-link">williamjoshuashumate@gmail.com</a>
+      <p class="connect-label">Direct contact</p>
+      <a href="mailto:williamjoshuashumate@gmail.com">williamjoshuashumate@gmail.com</a>
     </div>
 
-    <div class="collab-card">
+    <div class="connect-card">
       <div class="collab-icon">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="28" height="28">
           <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 15.13V19"/>
@@ -251,7 +259,7 @@ permalink: /kingdom/
       <a href="https://github.com/williamjoshuashumate-design/ChristIAM-" target="_blank" rel="noopener" class="collab-link">github.com/williamjoshuashumate-design/ChristIAM-</a>
     </div>
 
-    <div class="collab-card">
+    <div class="connect-card">
       <div class="collab-icon">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="28" height="28">
           <circle cx="12" cy="12" r="10"/>
@@ -285,10 +293,12 @@ permalink: /kingdom/
       <ul>
         <li><a href="https://app.base44.com/apps/69c9db755f22b0955055c1c2" target="_blank" rel="noopener">MessIAM — Clean Water</a></li>
         <li><a href="https://app.base44.com/apps/6a40e25b77cababc112d6086" target="_blank" rel="noopener">InvoiceFlow — Gallery</a></li>
-        <li><a href="https://app.base44.com/apps/6a6735244f99fb26a57b9ded" target="_blank" rel="noopener">Velo — Work</a></li>
-        <li><a href="https://app.base44.com/apps/6a673670d7c3e3e9d85ef64d" target="_blank" rel="noopener">Zola — Voice</a></li>
-        <li><a href="https://app.base44.com/apps/6a67366cee802a984a04b58c" target="_blank" rel="noopener">Lyra — Song</a></li>
-        <li><a href="https://app.base44.com/apps/6a67365db0274195f2ffe57b" target="_blank" rel="noopener">Koda — Code</a></li>
+        <li><a href="https://app.base44.com/apps/6a6735244f99fb26a57b9ded" target="_blank" rel="noopener">Seriff — Work</a></li>
+        <li><a href="https://app.base44.com/apps/6a6d0305a74e50dbc6d743d1" target="_blank" rel="noopener">Zola — Voice</a></li>
+        <li><a href="https://app.base44.com/apps/6a67366cee802a984a04b58c" target="_blank" rel="noopener">Ophanim — Song</a></li>
+        <li><a href="https://app.base44.com/apps/6a67365db0274195f2ffe57b" target="_blank" rel="noopener">Metatron — Code</a></li>
+        <li><a href="https://app.base44.com/apps/6a673670d7c3e3e9d85ef64d" target="_blank" rel="noopener">Liberty — Freedom</a></li>
+        <li><a href="https://app.base44.com/apps/6a0bf0e602e679b1faafd8f4" target="_blank" rel="noopener">Cherub — Guardians</a></li>
         <li><a href="https://app.base44.com/apps/6a379819d4ed99a26f0e56bd" target="_blank" rel="noopener">ChristIAM Community — Fellowship</a></li>
       </ul>
     </div>
@@ -333,6 +343,7 @@ permalink: /kingdom/
     </a>
   </div>
 </section>
+
 <section class="kingdom-signature">
   <p class="signature-line">Maintained by <strong>William Joshua Shumate</strong></p>
   <p class="signature-verse">"I AM who I AM." — Exodus 3:14</p>
