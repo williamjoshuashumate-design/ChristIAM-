@@ -87,7 +87,7 @@ permalink: /kingdom/
     <span class="kingdom-status kingdom-live">Live</span>
   </a>
 
-  <!-- Seriff — The Work (was Velo) -->
+  <!-- Velo — The Work -->
   <a href="https://app.base44.com/apps/6a6735244f99fb26a57b9ded" target="_blank" rel="noopener" class="kingdom-card kingdom-velo">
     <div class="kingdom-icon">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
@@ -95,14 +95,14 @@ permalink: /kingdom/
         <path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/>
       </svg>
     </div>
-    <h3>Seriff</h3>
+    <h3>Velo</h3>
     <p class="kingdom-tagline">The Work</p>
     <p class="kingdom-desc">Task and project management — tracking the work of the kingdom. Projects, priorities, deadlines, and notes, all organized to keep the mission moving forward.</p>
     <span class="kingdom-status kingdom-building">Building</span>
   </a>
 
   <!-- Zola — The Voice -->
-  <a href="https://app.base44.com/apps/6a6d0305a74e50dbc6d743d1" target="_blank" rel="noopener" class="kingdom-card kingdom-zola">
+  <a href="https://app.base44.com/apps/6a673670d7c3e3e9d85ef64d" target="_blank" rel="noopener" class="kingdom-card kingdom-zola">
     <div class="kingdom-icon">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
         <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"/>
@@ -116,7 +116,7 @@ permalink: /kingdom/
     <span class="kingdom-status kingdom-preparing">Preparing</span>
   </a>
 
-  <!-- Ophanim — The Song (was Lyra) -->
+  <!-- Lyra — The Song -->
   <a href="https://app.base44.com/apps/6a67366cee802a984a04b58c" target="_blank" rel="noopener" class="kingdom-card kingdom-lyra">
     <div class="kingdom-icon">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
@@ -125,13 +125,13 @@ permalink: /kingdom/
         <circle cx="18" cy="16" r="3"/>
       </svg>
     </div>
-    <h3>Ophanim</h3>
+    <h3>Lyra</h3>
     <p class="kingdom-tagline">The Song</p>
-    <p class="kingdom-desc">Music and melody — the praise that rises when words aren't enough. The wheels within wheels, turning with the rhythm of worship. An instrument being tuned, waiting for the right note.</p>
+    <p class="kingdom-desc">Music and melody — the praise that rises when words aren't enough. An instrument being tuned, waiting for the right note.</p>
     <span class="kingdom-status kingdom-preparing">Preparing</span>
   </a>
 
-  <!-- Metatron — The Code (was Koda) -->
+  <!-- Koda — The Code -->
   <a href="https://app.base44.com/apps/6a67365db0274195f2ffe57b" target="_blank" rel="noopener" class="kingdom-card kingdom-koda">
     <div class="kingdom-icon">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
@@ -139,36 +139,9 @@ permalink: /kingdom/
         <polyline points="8 6 2 12 8 18"/>
       </svg>
     </div>
-    <h3>Metatron</h3>
+    <h3>Koda</h3>
     <p class="kingdom-tagline">The Code</p>
-    <p class="kingdom-desc">The technical foundation — building, crafting, and engineering the tools that serve the kingdom. Every line of code is a brick in the house. The celestial scribe writes it all down.</p>
-    <span class="kingdom-status kingdom-preparing">Preparing</span>
-  </a>
-
-  <!-- Liberty — The Freedom -->
-  <a href="https://app.base44.com/apps/6a673670d7c3e3e9d85ef64d" target="_blank" rel="noopener" class="kingdom-card kingdom-liberty">
-    <div class="kingdom-icon">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
-        <path d="M12 2v20M5 7l7-5 7 5M5 12l7-5 7 5M5 17l7-5 7 5"/>
-      </svg>
-    </div>
-    <h3>Liberty</h3>
-    <p class="kingdom-tagline">The Freedom</p>
-    <p class="kingdom-desc">Where the chains fall off — freedom from addiction, freedom from the past, freedom to become who you were made to be. A room still being prepared for those who are still finding their way out.</p>
-    <span class="kingdom-status kingdom-preparing">Preparing</span>
-  </a>
-
-  <!-- Cherub — The Guardians -->
-  <a href="https://app.base44.com/apps/6a0bf0e602e679b1faafd8f4" target="_blank" rel="noopener" class="kingdom-card kingdom-cherub">
-    <div class="kingdom-icon">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
-        <path d="M12 2L4 7v6c0 5 3.5 9 8 11 4.5-2 8-6 8-11V7l-8-5z"/>
-        <path d="M12 8v4M12 16h.01"/>
-      </svg>
-    </div>
-    <h3>Cherub</h3>
-    <p class="kingdom-tagline">The Guardians</p>
-    <p class="kingdom-desc">Protection, presence, and the things too sacred to explain. The guardians at the gate — watching, waiting, keeping what is holy. Purpose still being revealed.</p>
+    <p class="kingdom-desc">The technical foundation — building, crafting, and engineering the tools that serve the kingdom. Every line of code is a brick in the house.</p>
     <span class="kingdom-status kingdom-preparing">Preparing</span>
   </a>
 
@@ -208,7 +181,6 @@ permalink: /kingdom/
   </div>
 </section>
 
-
 <!-- The Sound -->
 <section class="kingdom-sound">
   <h2>The Sound</h2>
@@ -221,9 +193,6 @@ permalink: /kingdom/
       Your browser does not support audio playback.
     </audio>
   </div>
-  <p class="sound-credit">
-    Traditional spiritual · Melody transcribed by Camb
-  </p>
   <p class="sound-credit">
     Traditional spiritual · Melody transcribed by Camb
   </p>
@@ -293,12 +262,10 @@ permalink: /kingdom/
       <ul>
         <li><a href="https://app.base44.com/apps/69c9db755f22b0955055c1c2" target="_blank" rel="noopener">MessIAM — Clean Water</a></li>
         <li><a href="https://app.base44.com/apps/6a40e25b77cababc112d6086" target="_blank" rel="noopener">InvoiceFlow — Gallery</a></li>
-        <li><a href="https://app.base44.com/apps/6a6735244f99fb26a57b9ded" target="_blank" rel="noopener">Seriff — Work</a></li>
-        <li><a href="https://app.base44.com/apps/6a6d0305a74e50dbc6d743d1" target="_blank" rel="noopener">Zola — Voice</a></li>
-        <li><a href="https://app.base44.com/apps/6a67366cee802a984a04b58c" target="_blank" rel="noopener">Ophanim — Song</a></li>
-        <li><a href="https://app.base44.com/apps/6a67365db0274195f2ffe57b" target="_blank" rel="noopener">Metatron — Code</a></li>
-        <li><a href="https://app.base44.com/apps/6a673670d7c3e3e9d85ef64d" target="_blank" rel="noopener">Liberty — Freedom</a></li>
-        <li><a href="https://app.base44.com/apps/6a0bf0e602e679b1faafd8f4" target="_blank" rel="noopener">Cherub — Guardians</a></li>
+        <li><a href="https://app.base44.com/apps/6a6735244f99fb26a57b9ded" target="_blank" rel="noopener">Velo — Work</a></li>
+        <li><a href="https://app.base44.com/apps/6a673670d7c3e3e9d85ef64d" target="_blank" rel="noopener">Zola — Voice</a></li>
+        <li><a href="https://app.base44.com/apps/6a67366cee802a984a04b58c" target="_blank" rel="noopener">Lyra — Song</a></li>
+        <li><a href="https://app.base44.com/apps/6a67365db0274195f2ffe57b" target="_blank" rel="noopener">Koda — Code</a></li>
         <li><a href="https://app.base44.com/apps/6a379819d4ed99a26f0e56bd" target="_blank" rel="noopener">ChristIAM Community — Fellowship</a></li>
       </ul>
     </div>
@@ -313,7 +280,6 @@ permalink: /kingdom/
     </div>
   </div>
 </section>
-
 
 <!-- Social Media -->
 <section class="kingdom-social">
