@@ -3,13 +3,33 @@
     <a href="{{ '/' | relative_url }}" class="site-logo">
       <span class="logo-text">ChristIAM</span><span class="logo-accent">-</span>
     </a>
-    <nav class="site-nav">
+    <nav class="site-nav" id="site-nav">
       <a href="{{ '/' | relative_url }}">Home</a>
       <a href="{{ '/' | relative_url }}#testimonies">Testimonies</a>
       <a href="{{ '/messiam/' | relative_url }}">MessIAM</a>
-      <a href="{{ '/gallery/' | relative_url }}">Gallery</a>
-      <a href="{{ '/kingdom/' | relative_url }}">Kingdom</a>
-      <a href="{{ '/about/' | relative_url }}">About</a>
+      <div class="nav-dropdown" id="nav-more">
+        <button class="nav-trigger" type="button" aria-haspopup="true" aria-expanded="false">
+          More <span class="nav-arrow"></span>
+        </button>
+        <div class="dropdown-menu">
+          <a href="{{ '/foundation/' | relative_url }}">Foundation</a>
+          <a href="{{ '/gallery/' | relative_url }}">Gallery</a>
+          <a href="{{ '/kingdom/' | relative_url }}">Kingdom</a>
+          <a href="{{ '/about/' | relative_url }}">About</a>
+          <a href="{{ '/changelog/complete/' | relative_url }}">Catalog</a>
+        </div>
+      </div>
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Toggle dark mode">
+        <span class="theme-icon">
+          <svg class="icon-moon" viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+          <svg class="icon-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+        </span>
+      </button>
     </nav>
+    <button class="nav-hamburger" id="nav-hamburger" type="button" aria-label="Toggle navigation">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
   </div>
 </header>

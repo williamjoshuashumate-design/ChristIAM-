@@ -6,7 +6,7 @@
   justify-content: center;
   min-height: 85vh;
   text-align: center;
-  background: linear-gradient(180deg, $color-bg 0%, #f4f3ec 100%);
+  background: linear-gradient(180deg, var(--color-bg) 0%, var(--color-surface-hover) 100%);
   padding: $space-2xl $space-lg;
 }
 
@@ -19,7 +19,7 @@
   font-size: clamp(3.5rem, 12vw, 8rem);
   font-weight: 700;
   letter-spacing: -0.04em;
-  color: $color-primary;
+  color: var(--color-primary);
   margin-bottom: $space-lg;
   line-height: 1;
 }
@@ -28,7 +28,7 @@
   font-family: $font-serif;
   font-size: clamp(1.1rem, 3vw, 1.6rem);
   font-style: italic;
-  color: $color-text-muted;
+  color: var(--color-text-muted);
   margin-bottom: $space-2xl;
   max-width: 600px;
   margin-left: auto;
@@ -46,19 +46,19 @@
 .hero-scripture {
   margin-top: $space-2xl;
   padding-top: $space-xl;
-  border-top: 1px solid $color-border;
+  border-top: 1px solid var(--color-border);
 }
 
 .scripture-text {
   font-family: $font-serif;
   font-size: 1.5rem;
   font-style: italic;
-  color: $color-primary;
+  color: var(--color-primary);
 }
 
 .scripture-ref {
   font-size: 0.95rem;
-  color: $color-text-muted;
+  color: var(--color-text-muted);
   margin-top: $space-xs;
 }
 
@@ -74,7 +74,7 @@
 
   p {
     font-size: 1.1rem;
-    color: $color-text-muted;
+    color: var(--color-text-muted);
     max-width: 640px;
     margin: 0 auto $space-md;
   }
@@ -83,15 +83,15 @@
 // Network Section
 .network-section {
   padding: $space-2xl $space-lg;
-  background: $color-surface;
-  border-top: 1px solid $color-border;
-  border-bottom: 1px solid $color-border;
+  background: var(--color-surface);
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
 
   h2 {
     text-align: center;
     font-family: $font-serif;
     font-size: 2rem;
-    color: $color-primary;
+    color: var(--color-primary);
     margin-bottom: $space-xl;
   }
 }
@@ -111,37 +111,37 @@
 .network-card {
   display: block;
   padding: $space-xl $space-lg;
-  background: $color-bg;
-  border: 1px solid $color-border;
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
   border-radius: $radius-lg;
   text-decoration: none;
-  color: $color-text;
+  color: var(--color-text);
   transition: $transition;
 
   &:hover {
-    border-color: $color-accent;
+    border-color: var(--color-accent);
     transform: translateY(-4px);
-    box-shadow: 0 8px 24px rgba($color-primary, 0.08);
+    box-shadow: 0 8px 24px var(--color-shadow);
     text-decoration: none;
   }
 
   h3 {
     font-family: $font-serif;
     font-size: 1.5rem;
-    color: $color-primary;
+    color: var(--color-primary);
     margin-bottom: $space-xs;
   }
 
   .network-tagline {
     font-size: 0.95rem;
-    color: $color-accent;
+    color: var(--color-accent);
     font-style: italic;
     margin-bottom: $space-md;
   }
 
   p {
     font-size: 0.95rem;
-    color: $color-text-muted;
+    color: var(--color-text-muted);
     line-height: 1.6;
   }
 }
@@ -149,9 +149,9 @@
 // Testimonies Section
 .testimonies-section {
   padding: $space-xl $space-lg;
-  background: $color-surface;
-  border-top: 1px solid $color-border;
-  border-bottom: 1px solid $color-border;
+  background: var(--color-surface);
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
 
   h2 {
     text-align: center;
@@ -168,32 +168,32 @@
 
 .testimony-card {
   padding: $space-lg;
-  background: $color-bg;
+  background: var(--color-bg);
   border-radius: $radius-lg;
-  border: 1px solid $color-border;
+  border: 1px solid var(--color-border);
   transition: transform $transition, box-shadow $transition;
 
   &:hover {
     transform: translateY(-4px);
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 8px 24px var(--color-shadow);
   }
 
   h3 {
     font-size: 1.3rem;
     margin-bottom: $space-xs;
 
-    a { color: $color-text; }
+    a { color: var(--color-text); }
   }
 
   time {
     font-size: 0.85rem;
-    color: $color-text-muted;
+    color: var(--color-text-muted);
     display: block;
     margin-bottom: $space-sm;
   }
 
   p {
-    color: $color-text-muted;
+    color: var(--color-text-muted);
     font-size: 0.95rem;
   }
 
@@ -207,7 +207,7 @@
 
 .coming-soon {
   text-align: center;
-  color: $color-text-muted;
+  color: var(--color-text-muted);
   font-style: italic;
   padding: $space-xl;
 }
