@@ -88,7 +88,7 @@ The world is not going to get a polished version. They're going to get the real,
 
 Because truly I tell you — only the ones who have been in exile, who have been called the black sheep, the misfits, the ones who don't fit anywhere — *you*, my brothers and sisters, are the reason why I keep showing up day after day, even when I don't have to.
 
-This testimony is not for me. It's for you. It is not hard to do something once somebody has already done it. And I have done it. And you were free. All of you.
+This testimony is not for me. It's for you. It is not hard to do something once somebody has already done it. And I have done it. And you are free. All of you.
 
 Create a world with me. With joy and happiness and love. And forgive each other — for I have forgiven you.
 

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "MessIAM — I AM Clean Water"
+title: "MessIAM — I AM Living Water"
 description: "MessIAM is the foundation platform for tracking and managing clean water bathhouse and laundry facilities in remote and low-income areas worldwide."
 permalink: /messiam/
 ---
 
 <section class="page-header">
   <h1>MessIAM</h1>
-  <p class="page-tagline">I AM Clean Water</p>
+  <p class="page-tagline">I AM Living Water</p>
 </section>
 
 <section class="messiam-hero">
@@ -52,7 +52,7 @@ permalink: /messiam/
 
 <section class="messiam-projects">
   <h2>Projects Worldwide</h2>
-  <p class="section-intro">Six projects across three continents. Each one bringing clean water, dignity, and the message of I AM to communities that needed it most.</p>
+  <p class="section-intro">Six projects across three continents. Each one bringing living water, dignity, and the message of I AM to communities that needed it most.</p>
 
   <div class="messiam-project-list">
 
@@ -82,7 +82,7 @@ permalink: /messiam/
       <div class="project-body">
         <h3>Mekong Delta Laundry Station</h3>
         <p class="project-location">An Giang Province · Vietnam</p>
-        <p class="project-desc">Community laundry facility with clean water filtration serving rural families along the Mekong Delta.</p>
+        <p class="project-desc">Community laundry facility with living water filtration serving rural families along the Mekong Delta.</p>
         <div class="project-badges">
           <span class="badge badge-completed">Completed</span>
           <span class="badge badge-served">800 served</span>
@@ -99,7 +99,7 @@ permalink: /messiam/
       <div class="project-body">
         <h3>Rajasthan Desert Oasis</h3>
         <p class="project-location">Thar Desert Region · India</p>
-        <p class="project-desc">A combined bathhouse and laundry facility bringing clean water access to remote desert communities.</p>
+        <p class="project-desc">A combined bathhouse and laundry facility bringing living water access to remote desert communities.</p>
         <div class="project-badges">
           <span class="badge badge-completed">Completed</span>
           <span class="badge badge-served">950 served</span>
@@ -152,7 +152,7 @@ permalink: /messiam/
       <div class="project-body">
         <h3>Amazonian River Community</h3>
         <p class="project-location">Pará State · Brazil</p>
-        <p class="project-desc">Planned laundry facility for indigenous river communities with limited access to clean water infrastructure.</p>
+        <p class="project-desc">Planned laundry facility for indigenous river communities with limited access to living water infrastructure.</p>
         <div class="project-badges">
           <span class="badge badge-planning">Planning</span>
         </div>
@@ -179,7 +179,7 @@ permalink: /messiam/
       </div>
       <div class="feature-card">
         <h3>Community Connection</h3>
-        <p>Linking the communities receiving clean water with the kingdom that's sending it.</p>
+        <p>Linking the communities receiving living water with the kingdom that's sending it.</p>
       </div>
       <div class="feature-card">
         <h3>Global Map</h3>
@@ -193,16 +193,16 @@ permalink: /messiam/
 </section>
 
 <section class="messiam-connection">
-  <h2>The Connection</h2>
+  <h2>The Flow</h2>
   <div class="connection-content">
     <p>
-      The testimony says <em>"He removed my heart of stone and gave me a heart of flesh."</em> The foundation says <em>"Let me give you clean water."</em> The art says <em>"This is the demon I faced — and this is how I overcame."</em>
+      Every project on this platform started with one prayer on one floor. One man crying out for forgiveness — and God answering. That same God is now flowing through six countries, three continents, and thousands of lives.
     </p>
     <p>
-      It's all the same story. The pit, the water, the art, the testimony — it's all one continuous act of God reaching down. The water that washed my heart clean is the same water we're bringing to Kibera, to the Mekong Delta, to the Thar Desert.
+      The water doesn't stop. It doesn't run dry. It moves from the pit to the platform, from the testimony to the trenches, from one heart made new to entire communities made new. The MessIAM app is how we track that flow — every well, every bathhouse, every life changed.
     </p>
     <p>
-      <strong>I AM clean water. Not because I am clean — but because He made me clean.</strong>
+      <strong>I AM living water. Not because I was living — but because He gave me life.</strong>
     </p>
   </div>
 </section>

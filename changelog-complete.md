@@ -147,7 +147,7 @@ permalink: /changelog/complete/
 
 ### Commit 15 — `3c301b0` · July 28, 2026
 **Link all apps: add Foundation (MessIAM) and Gallery (InvoiceFlow) pages**
-- **Foundation page** (`/foundation/`): MessIAM bathhouse/laundry projects across 6 countries, 2,950+ served, 3 completed, 2 in progress, 1 planning. Theme: "I AM Clean Water"
+- **Foundation page** (`/foundation/`): MessIAM bathhouse/laundry projects across 6 countries, 2,950+ served, 3 completed, 2 in progress, 1 planning. Theme: "I AM Living Water"
 - **Gallery page** (`/gallery/`): 11 spiritual artworks from InvoiceFlow, each showing the demon represented and meaning of overcoming. Theme: "From Darkness to Light"
 - Home page updated with Network section linking all three pillars
 - Navigation updated in header and footer
@@ -157,7 +157,7 @@ permalink: /changelog/complete/
 **Add Kingdom page: hub linking all apps in the network**
 - Created `/kingdom/` page with 9 app cards:
   - ChristIAM- (Testimony) — Live
-  - MessIAM (Clean Water) — Live
+  - MessIAM (Living Water) — Live
   - InvoiceFlow (Art Gallery) — Live
   - IAM (The Guide) — Live
   - Velo (The Work) — Building

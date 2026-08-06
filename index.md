@@ -43,8 +43,8 @@ description: "A personal testimony of faith, transformation, and the journey of 
   <div class="network-grid">
     <a href="{{ '/foundation/' | relative_url }}" class="network-card">
       <h3>The Foundation</h3>
-      <p class="network-tagline">I AM Clean Water</p>
-      <p>Bathhouse and laundry facilities bringing clean water access to remote communities across 6 countries. 2,950+ people served.</p>
+      <p class="network-tagline">I AM Living Water</p>
+      <p>Bathhouse and laundry facilities bringing living water access to remote communities across 6 countries. 2,950+ people served.</p>
     </a>
     <a href="{{ '/gallery/' | relative_url }}" class="network-card">
       <h3>The Gallery</h3>
