@@ -72,7 +72,7 @@ permalink: /about/
       </div>
       <div class="mission-item">
         <h3>The Foundation</h3>
-        <p>Clean water. Bathhouses and laundry facilities in remote and low-income areas. 2,950+ people served across 6 countries — and counting.</p>
+        <p>Living water. Bathhouses and laundry facilities in remote and low-income areas. 2,950+ people served across 6 countries — and counting.</p>
       </div>
       <div class="mission-item">
         <h3>The Gallery</h3>

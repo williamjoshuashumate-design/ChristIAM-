@@ -51,7 +51,7 @@ permalink: /kingdom/
       </svg>
     </div>
     <h3>MessIAM</h3>
-    <p class="kingdom-tagline">I AM Clean Water</p>
+    <p class="kingdom-tagline">I AM Living Water</p>
     <p class="kingdom-desc">The foundation — building bathhouse and laundry facilities in remote and low-income areas. 6 projects across Kenya, Vietnam, India, Tanzania, Bangladesh, and Brazil. 2,950+ served.</p>
     <span class="kingdom-status kingdom-live">Live</span>
     <span class="kingdom-also"><a href="{{ '/foundation/' | relative_url }}">View on this site &rarr;</a></span>
@@ -260,7 +260,7 @@ permalink: /kingdom/
     <div class="resource-group">
       <h4>The Apps</h4>
       <ul>
-        <li><a href="https://app.base44.com/apps/69c9db755f22b0955055c1c2" target="_blank" rel="noopener">MessIAM — Clean Water</a></li>
+        <li><a href="https://app.base44.com/apps/69c9db755f22b0955055c1c2" target="_blank" rel="noopener">MessIAM — Living Water</a></li>
         <li><a href="https://app.base44.com/apps/6a40e25b77cababc112d6086" target="_blank" rel="noopener">InvoiceFlow — Gallery</a></li>
         <li><a href="https://app.base44.com/apps/6a6735244f99fb26a57b9ded" target="_blank" rel="noopener">Velo — Work</a></li>
         <li><a href="https://app.base44.com/apps/6a673670d7c3e3e9d85ef64d" target="_blank" rel="noopener">Zola — Voice</a></li>

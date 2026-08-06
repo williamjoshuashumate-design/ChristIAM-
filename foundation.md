@@ -1,19 +1,19 @@
 ---
 layout: default
-title: "The Foundation — I AM Clean Water"
-description: "MessIAM — building bathhouse and laundry facilities to bring clean water access to remote and low-income communities worldwide."
+title: "The Foundation — I AM Living Water"
+description: "MessIAM — building bathhouse and laundry facilities to bring living water access to remote and low-income communities worldwide."
 permalink: /foundation/
 ---
 
 <section class="page-header">
   <h1>The Foundation</h1>
-  <p class="page-tagline">I AM Clean Water</p>
+  <p class="page-tagline">I AM Living Water</p>
 </section>
 
 <section class="foundation-intro">
   <div class="intro-content">
     <p>
-      Clean water is not a luxury. It is a right. It is life. And for over 2,950 people across three continents, it is now a reality.
+      Living water is not a luxury. It is a right. It is life. And for over 2,950 people across three continents, it is now a reality.
     </p>
     <p>
       <strong>MessIAM</strong> is the foundation arm of ChristIAM- — a dedicated platform for tracking and managing the construction of essential bathhouse and laundry facilities in remote and low-income areas. Because being clean is not just about water. It is about dignity. It is about being made new.
@@ -73,7 +73,7 @@ permalink: /foundation/
     <div class="project-info">
       <h3>Mekong Delta Laundry Station</h3>
       <p class="project-location">An Giang Province · Vietnam</p>
-      <p class="project-description">Community laundry facility with clean water filtration serving rural families along the Mekong Delta.</p>
+      <p class="project-description">Community laundry facility with living water filtration serving rural families along the Mekong Delta.</p>
       <div class="project-meta">
         <span class="badge badge-completed">Completed</span>
         <span class="badge badge-served">800 served</span>
@@ -88,7 +88,7 @@ permalink: /foundation/
     <div class="project-info">
       <h3>Rajasthan Desert Oasis</h3>
       <p class="project-location">Thar Desert Region · India</p>
-      <p class="project-description">A combined bathhouse and laundry facility bringing clean water access to remote desert communities.</p>
+      <p class="project-description">A combined bathhouse and laundry facility bringing living water access to remote desert communities.</p>
       <div class="project-meta">
         <span class="badge badge-completed">Completed</span>
         <span class="badge badge-served">950 served</span>
@@ -132,7 +132,7 @@ permalink: /foundation/
     <div class="project-info">
       <h3>Amazonian River Community</h3>
       <p class="project-location">Pará State · Brazil</p>
-      <p class="project-description">Planned laundry facility for indigenous river communities with limited access to clean water infrastructure.</p>
+      <p class="project-description">Planned laundry facility for indigenous river communities with limited access to living water infrastructure.</p>
       <div class="project-meta">
         <span class="badge badge-planning">Planning</span>
       </div>
@@ -144,13 +144,13 @@ permalink: /foundation/
   <div class="call-content">
     <h2>The Connection</h2>
     <p>
-      The testimony says <em>"He removed my heart of stone and gave me a heart of flesh."</em> The foundation says <em>"Let me give you clean water."</em> The art says <em>"This is the demon I faced — and this is how I overcame."</em>
+      The testimony says <em>"He removed my heart of stone and gave me a heart of flesh."</em> The foundation says <em>"Let me give you living water."</em> The art says <em>"This is the demon I faced — and this is how I overcame."</em>
     </p>
     <p>
-      It's all the same story. The pit, the water, the art, the testimony, the foundation — it's all one continuous act of God reaching down. The water that washed my heart clean is the same water we're bringing to Kibera, to the Mekong Delta, to the Thar Desert.
+      It's all the same story. The pit, the water, the art, the testimony, the foundation — it's all one continuous act of God reaching down. The living water that flowed through my heart is the same water we're bringing to Kibera, to the Mekong Delta, to the Thar Desert.
     </p>
     <p>
-      <strong>I AM clean water. Not because I am clean — but because He made me clean.</strong>
+      <strong>I AM living water. Not because I was living — but because He gave me life.</strong>
     </p>
   </div>
 </section>
