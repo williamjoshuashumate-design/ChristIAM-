@@ -102,7 +102,7 @@ TOTAL: 2,950 served · 4,450+ projected · 6 countries · 3 continents
 11. Rufus — Stuck
 
 ## SOCIAL MEDIA (on Kingdom page)
-- Facebook: facebook.com/IAM.M2e — SET (unverified)
+- Facebook: facebook.com/wil.liam.joshua.713841 — SET (verified 200 OK)
 - Instagram: instagram.com/IAM_M2e — SET (unverified)
 - TikTok: tiktok.com/@IAM_M2e — SET (verified exists)
 - YouTube: NOT SET (handle doesn't exist)

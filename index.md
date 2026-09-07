@@ -99,6 +99,10 @@ description: "A personal testimony of faith, transformation, and the journey of 
     <a href="mailto:williamjoshuashumate@gmail.com" class="contact-email-link">williamjoshuashumate@gmail.com</a>
     <span class="contact-sep">·</span>
     <a href="https://app.base44.com/superagent/6a59e07644b17116ea62b443" target="_blank" rel="noopener" class="contact-email-link">Talk to IAM &rarr;</a>
+    <span class="contact-sep">&middot;</span>
+    <a href="mailto:williamjoshuashumate@gmail.com?subject=Give%20%26%20Partner%20%E2%80%94%20ChristIAM" class="contact-email-link">Give &amp; Partner &rarr;</a>
+    <span class="contact-sep">&middot;</span>
+    <a href="https://www.facebook.com/wil.liam.joshua.713841" target="_blank" rel="noopener" class="contact-email-link">Facebook</a>
   </div>
 </section>
 

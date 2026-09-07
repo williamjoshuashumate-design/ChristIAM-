@@ -220,6 +220,17 @@ permalink: /kingdom/
     <div class="connect-card">
       <div class="collab-icon">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="28" height="28">
+          <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+        </svg>
+      </div>
+      <h3>Give &amp; Partner</h3>
+      <p>Support the work — donations, sponsorships, and partnerships for the water projects and the kingdom.</p>
+      <a href="mailto:williamjoshuashumate@gmail.com?subject=Give%20%26%20Partner%20%E2%80%94%20ChristIAM" class="collab-link">Give or partner with us &rarr;</a>
+    </div>
+
+    <div class="connect-card">
+      <div class="collab-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="28" height="28">
           <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 15.13V19"/>
         </svg>
       </div>
@@ -287,7 +298,7 @@ permalink: /kingdom/
   <p class="social-intro">Stay connected. The kingdom is always being built.</p>
   <div class="social-links">
     <!-- Facebook -->
-    <a href="https://www.facebook.com/IAM.M2e" target="_blank" rel="noopener" class="social-link" aria-label="Facebook" data-platform="facebook">
+    <a href="https://www.facebook.com/wil.liam.joshua.713841" target="_blank" rel="noopener" class="social-link" aria-label="Facebook" data-platform="facebook">
       <svg viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
         <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
       </svg>
