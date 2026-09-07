@@ -131,10 +131,12 @@ permalink: /about/
       <a href="https://app.base44.com/superagent/6a59e07644b17116ea62b443" target="_blank" rel="noopener" class="connect-link">Talk to IAM &rarr;</a>
       <span class="connect-sep">·</span>
       <a href="{{ '/kingdom/' | relative_url }}" class="connect-link">The Kingdom</a>
+      <span class="connect-sep">&middot;</span>
+      <a href="mailto:williamjoshuashumate@gmail.com?subject=Give%20%26%20Partner%20%E2%80%94%20ChristIAM" class="connect-link">Give &amp; Partner &rarr;</a>
     </div>
     <div class="connect-social">
       <p class="social-label">Follow:</p>
-      <a href="https://www.facebook.com/IAM.M2e" target="_blank" rel="noopener" class="connect-link">Facebook</a>
+      <a href="https://www.facebook.com/wil.liam.joshua.713841" target="_blank" rel="noopener" class="connect-link">Facebook</a>
       <span class="connect-sep">·</span>
       <a href="https://www.instagram.com/IAM_M2e/" target="_blank" rel="noopener" class="connect-link">Instagram</a>
       <span class="connect-sep">·</span>
