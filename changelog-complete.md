@@ -379,3 +379,11 @@ permalink: /changelog/complete/
 - Added Give & Partner link to About page and Homepage contact section
 - Updated Facebook link from facebook.com/IAM.M2e to facebook.com/wil.liam.joshua.713841 (verified)
 - Wix Payments connected to the app for future donation checkout
+
+## 2026-09-08 — Custom Domain Connected: iamchristiam.me
+
+- Domain iamchristiam.me registered at IONOS
+- CNAME file merged (PR #9) pointing GitHub Pages site to iamchristiam.me
+- DNS records at IONOS required: 4x A records (185.199.108-111.153) + www CNAME to williamjoshuashumate-design.github.io
+- Replaces christiam.church plan (christiam.me was taken by another party)
+- HTTPS enforcement pending: enable in repo Settings → Pages once certificate provisions
