@@ -399,3 +399,10 @@ permalink: /changelog/complete/
 
 - Signature verses on the About and Kingdom pages now use the one-word wordmark IAMTHATIAM
 - Scripture prose quotes (about definition, testimony post) intentionally remain standard KJV
+
+## 2026-09-12 — CROSSED Brand Page Launch
+
+- New brand page at /crossed/ for the CROSSED apparel label
+- Brand concept: oversized visible structural stitching — the thread that holds the garment together, made the main design theme
+- Features the refined Foundation Tee, UnoWHO flagship hoodie (giant X-stitch lettering + royal crown), and macro thread study
+- CROSSED added to site navigation (header dropdown + footer)
