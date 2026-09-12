@@ -387,3 +387,10 @@ permalink: /changelog/complete/
 - DNS records at IONOS required: 4x A records (185.199.108-111.153) + www CNAME to williamjoshuashumate-design.github.io
 - Replaces christiam.church plan (christiam.me was taken by another party)
 - HTTPS enforcement pending: enable in repo Settings → Pages once certificate provisions
+
+## 2026-09-11 — Brand Wordmark: IAMTHATIAM
+
+- Homepage hero phrase changed to the single-word wordmark "IAMTHATIAM."
+- Site tagline updated to "IAMTHATIAM. — Exodus 3:14" (browser title + all footers)
+- Stylized one-word form matches the ministry branding (ChristIAM, MessIAM, IAM)
+- Scripture prose quotes in the testimony and about page remain standard KJV text
