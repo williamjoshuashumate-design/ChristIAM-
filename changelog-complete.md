@@ -394,3 +394,8 @@ permalink: /changelog/complete/
 - Site tagline updated to "IAMTHATIAM. — Exodus 3:14" (browser title + all footers)
 - Stylized one-word form matches the ministry branding (ChristIAM, MessIAM, IAM)
 - Scripture prose quotes in the testimony and about page remain standard KJV text
+
+## 2026-09-11 — IAMTHATIAM Wordmark: Signature Verses
+
+- Signature verses on the About and Kingdom pages now use the one-word wordmark IAMTHATIAM
+- Scripture prose quotes (about definition, testimony post) intentionally remain standard KJV

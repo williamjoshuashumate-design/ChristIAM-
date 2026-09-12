@@ -148,7 +148,7 @@ permalink: /about/
 <section class="about-signature">
   <div class="signature-content">
     <p class="signature-verse">
-      "I AM THAT I AM." — Exodus 3:14
+      IAMTHATIAM. — Exodus 3:14
     </p>
     <p class="signature-name">Truly IAM,</p>
     <p class="signature-author">Will IAM JOSHUA</p>

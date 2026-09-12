@@ -323,6 +323,6 @@ permalink: /kingdom/
 
 <section class="kingdom-signature">
   <p class="signature-line">Maintained by <strong>William Joshua Shumate</strong></p>
-  <p class="signature-verse">"I AM THAT I AM." — Exodus 3:14</p>
+  <p class="signature-verse">IAMTHATIAM. — Exodus 3:14</p>
   <p class="signature-copy">&copy; {{ site.time | date: "%Y" }} · CC0 1.0 — Released to the public domain</p>
 </section>
