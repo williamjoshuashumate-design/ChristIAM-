@@ -207,4 +207,4 @@ This project is licensed under [CC0 1.0 Universal](https://creativecommons.org/p
 
 ---
 
-*"I AM who I AM." — Exodus 3:14*
+*"I AM THAT I AM." — Exodus 3:14*

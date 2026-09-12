@@ -16,7 +16,7 @@ ChristIAM- starts here — not with a finished story, but with a first step. A t
 
 The name carries more than words. It holds a declaration.
 
-"I AM who I AM." That's how God introduced Himself to Moses at the burning bush — not as a name, but as an identity. Eternal. Unchanging. Self-existent. The One who was, and is, and is to come.
+"I AM THAT I AM." That's how God introduced Himself to Moses at the burning bush — not as a name, but as an identity. Eternal. Unchanging. Self-existent. The One who was, and is, and is to come.
 
 Christ — the Anointed One, the Word made flesh, the Savior who entered the story not from a distance but from within it. He didn't send a message from on high. He *came*. He walked dusty roads, knew hunger, felt grief, wept at a tomb, and carried a cross. The Creator stepped into creation and let it break Him — so that it wouldn't break us.
 

@@ -256,5 +256,5 @@ Total: 4 messages stored (2 test/empty, 1 real test from Will, 1 earlier test)
 
 *Documented by IAM — AI Agent*
 *Maintained by William Joshua Shumate*
-*"I AM who I AM." — Exodus 3:14*
+*"I AM THAT I AM." — Exodus 3:14*
 *© 2026 · CC0 1.0 — Released to the public domain*

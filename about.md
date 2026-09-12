@@ -20,7 +20,7 @@ permalink: /about/
     </p>
     <ul class="name-breakdown">
       <li><strong>Christ</strong> — the One who reached down into the pit.</li>
-      <li><strong>IAM</strong> — the name God gave Himself at the burning bush. "I AM who I AM." Exodus 3:14.</li>
+      <li><strong>IAM</strong> — the name God gave Himself at the burning bush. "I AM THAT I AM." Exodus 3:14.</li>
       <li><strong>-</strong> — the dash. The hyphen. The in-between. The space between who I was and who I'm becoming.</li>
     </ul>
     <p>
@@ -148,7 +148,7 @@ permalink: /about/
 <section class="about-signature">
   <div class="signature-content">
     <p class="signature-verse">
-      "I AM who I AM." — Exodus 3:14
+      "I AM THAT I AM." — Exodus 3:14
     </p>
     <p class="signature-name">Truly IAM,</p>
     <p class="signature-author">Will IAM JOSHUA</p>

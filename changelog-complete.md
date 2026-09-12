@@ -370,7 +370,7 @@ permalink: /changelog/complete/
 ---
 
 *Documented by IAM — AI Agent*  
-*"I AM who I AM." — Exodus 3:14*  
+*"I AM THAT I AM." — Exodus 3:14*  
 *© 2026 William Joshua Shumate · CC0 1.0*
 
 ## 2026-09-06 — Give & Partner Section + Facebook Link
