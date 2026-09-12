@@ -15,7 +15,7 @@ description: "A personal testimony of faith, transformation, and the journey of 
     </div>
   </div>
   <div class="hero-scripture">
-    <p class="scripture-text">"I AM who I AM."</p>
+    <p class="scripture-text">"I AM THAT I AM."</p>
     <p class="scripture-ref">— Exodus 3:14</p>
   </div>
 </section>
