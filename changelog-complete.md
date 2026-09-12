@@ -406,3 +406,10 @@ permalink: /changelog/complete/
 - Brand concept: oversized visible structural stitching — the thread that holds the garment together, made the main design theme
 - Features the refined Foundation Tee, UnoWHO flagship hoodie (giant X-stitch lettering + royal crown), and macro thread study
 - CROSSED added to site navigation (header dropdown + footer)
+
+## 2026-09-12 — IAMU Page Launch
+
+- New page at /iamu/ for the IAMU wordmark — newest member of the IAM family
+- Set in the CROSSED style: giant visible gold/cream cross-stitch on grey lead colorway
+- IAMU card added to the /crossed/ brand page, linking to the new page
+- IAMU added to site navigation (header dropdown + footer)
