@@ -63,6 +63,20 @@ permalink: /crossed/
   </article>
 </section>
 
+
+<section class="gallery-grid">
+  <article class="art-card">
+    <div class="art-image">
+      <img src="https://media.base44.com/images/public/6a59e07644b17116ea62b443/e57f89afc_generated_image.png" alt="IAMU — grey tee with giant gold and cream cross-stitch lettering" loading="lazy">
+    </div>
+    <div class="art-info">
+      <h3>IAMU</h3>
+      <p class="art-date">Heavyweight grey · gold &amp; cream X-stitch</p>
+      <p>The newest wordmark in the IAM family. <a href="{{ '/iamu/' | relative_url }}">See the IAMU page</a>.</p>
+    </div>
+  </article>
+</section>
+
 <section class="about-signature">
   <div class="signature-content">
     <p class="signature-verse">IAMTHATIAM. — Exodus 3:14</p>
