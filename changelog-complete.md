@@ -413,3 +413,10 @@ permalink: /changelog/complete/
 - Set in the CROSSED style: giant visible gold/cream cross-stitch on grey lead colorway
 - IAMU card added to the /crossed/ brand page, linking to the new page
 - IAMU added to site navigation (header dropdown + footer)
+
+## 2026-09-12 — New in the Line + Manufacturer RFQ
+
+- Short-sleeve hoodie (grey, open side-entry hand pockets) added to /crossed/
+- Missions edition hoodie (forest green, back vent panel) added to /crossed/
+- Performance boxer briefs (gripper cuffs, pouch, center vent panel, trap-door fly) added to /crossed/
+- Manufacturer RFQ drafted and emailed to owner; Insect Shield partnership inquiry sent

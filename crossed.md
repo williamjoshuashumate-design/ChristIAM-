@@ -64,6 +64,48 @@ permalink: /crossed/
 </section>
 
 
+<section class="gallery-intro">
+  <div class="intro-content">
+    <h2>New in the Line</h2>
+    <p>The latest CROSSED pieces — the short-sleeve hoodie with open hand pockets, the forest green missions edition with back vent panel, and the performance boxer briefs built for protection and comfort.</p>
+  </div>
+</section>
+
+<section class="gallery-grid">
+  <article class="art-card">
+    <div class="art-image">
+      <img src="https://media.base44.com/images/public/6a59e07644b17116ea62b443/215e35a9f_generated_image.png" alt="CROSSED short-sleeved hoodie in grey with open-ended side-entry hand pockets and giant X-stitch seams" loading="lazy">
+    </div>
+    <div class="art-info">
+      <h3>The Short-Sleeve Hoodie</h3>
+      <p class="art-date">Heavyweight grey · open side-entry hand pockets</p>
+      <p>Drawstring hood, cuffed short sleeves, deep open-ended front pocket — hands slide in from the sides. Every seam in giant gold X-stitch.</p>
+    </div>
+  </article>
+
+  <article class="art-card">
+    <div class="art-image">
+      <img src="https://media.base44.com/images/public/6a59e07644b17116ea62b443/4ccd0e9a1_generated_image.png" alt="CROSSED missions edition short-sleeve hoodie in forest green with back vent panel" loading="lazy">
+    </div>
+    <div class="art-info">
+      <h3>The Missions Edition</h3>
+      <p class="art-date">Forest green · back vent panel · open hand pockets</p>
+      <p>The outdoor build — made for the field and the work: airflow where you need it, thread that holds it together.</p>
+    </div>
+  </article>
+
+  <article class="art-card">
+    <div class="art-image">
+      <img src="https://media.base44.com/images/public/6a59e07644b17116ea62b443/c25b8bd2e_generated_image.png" alt="CROSSED performance boxer briefs in grey with gripper cuffs, pouch, center vent panel and trap-door fly" loading="lazy">
+    </div>
+    <div class="art-info">
+      <h3>The Performance Boxer Briefs</h3>
+      <p class="art-date">Grey · fitted gripper-cuff legs · center vent panel</p>
+      <p>Fitted compression legs sealed at the thigh so bugs cannot enter. Contoured pouch, breathable vent panel from rear to front for airflow and comfort, quick-access trap-door fly. Gold CROSSED stitching at every functional seam.</p>
+    </div>
+  </article>
+</section>
+
 <section class="gallery-grid">
   <article class="art-card">
     <div class="art-image">
