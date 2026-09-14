@@ -160,6 +160,39 @@ keywords: "CROSSED apparel, heavyweight embroidered hoodie, exposed stitching st
       <p>The hero piece. Fur-lined standing collar instead of a hood, a dramatic train hem, and cream and gold X-stitch on every seam.</p>
     </div>
   </article>
+  <article class="art-card">
+    <div class="art-image">
+      <img src="https://media.base44.com/images/public/6a59e07644b17116ea62b443/19cff8b58_generated_image.png" alt="CROSSED Runework Viking robe in grey with geometric Norse diamond patterns and baby-blue silk lining" loading="lazy">
+    </div>
+    <div class="art-info">
+      <h3>The Runework Robe</h3>
+      <p class="art-date">Heavyweight grey · geometric Norse diamonds · baby-blue silk</p>
+      <p>The geometric build — giant X-stitch arranged into bold Norse diamond and triangle patterns down the placket, chest and hem in gold and baby-blue yarn, with cool silk lining peeking at cuffs and hem.</p>
+    </div>
+  </article>
+
+  <article class="art-card">
+    <div class="art-image">
+      <img src="https://media.base44.com/images/public/6a59e07644b17116ea62b443/5e74a27e4_generated_image.png" alt="CROSSED Skybound Viking robe in blue-grey with geometric chevron bands and baby-blue silk hood lining" loading="lazy">
+    </div>
+    <div class="art-info">
+      <h3>The Skybound Robe</h3>
+      <p class="art-date">Blue-grey · baby-blue undertone · chevron bands · silk-lined hood</p>
+      <p>The light statement — blue-grey fabric with a baby-blue undertone, geometric chevron and diamond bands in cream and gold thread, silk-lined hood in baby blue.</p>
+    </div>
+  </article>
+
+  <article class="art-card">
+    <div class="art-image">
+      <img src="https://media.base44.com/images/public/6a59e07644b17116ea62b443/e83ee9d5f_generated_image.png" alt="Inside-out detail of CROSSED robe showing baby-blue silk liner, leather-trimmed heart pocket and deep side pocket" loading="lazy">
+    </div>
+    <div class="art-info">
+      <h3>The Interior Study</h3>
+      <p class="art-date">Baby-blue silk liner · heart pocket · side pocket</p>
+      <p>What's inside matters: smooth baby-blue silk from neck to hem, a leather-trimmed pocket over the heart, a deep side pocket at the hip, finished seams — cool, breathable, nothing itching. Thick outside, soft inside, grounded through and through.</p>
+    </div>
+  </article>
+
 </section>
 
 <section class="gallery-grid">
@@ -189,22 +222,167 @@ keywords: "CROSSED apparel, heavyweight embroidered hoodie, exposed stitching st
   "@type": "Brand",
   "name": "CROSSED",
   "slogan": "The Stitching Holds It Together",
-  "description": "CROSSED apparel label — heavyweight garments built around oversized, visible structural stitching. Buy one, give one free: every piece purchased gives a piece to someone in need.",
+  "description": "CROSSED apparel label - heavyweight garments built around oversized, visible structural stitching. Buy one, give one free: every piece purchased gives a piece to someone in need.",
   "url": "https://williamjoshuashumate-design.github.io/ChristIAM-/crossed/",
   "logo": "https://media.base44.com/images/public/6a59e07644b17116ea62b443/ae3146d50_generated_image.png",
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
     "name": "CROSSED Collection",
     "itemListElement": [
-      {"@type":"ListItem","position":1,"item":{"@type":"Product","name":"The Foundation Tee","image":"https://media.base44.com/images/public/6a59e07644b17116ea62b443/3d0070c17_generated_image.png","description":"Heavyweight tee with oversized exposed cross-stitch seams in cream and gold thread.","brand":{"@type":"Brand","name":"CROSSED"}}},
-      {"@type":"ListItem","position":2,"item":{"@type":"Product","name":"UnoWHO Hoodie","image":"https://media.base44.com/images/public/6a59e07644b17116ea62b443/94564c095_generated_image.png","description":"Heavyweight cream hoodie with UnoWHO lettering built from giant cross-stitch and royal crown.","brand":{"@type":"Brand","name":"CROSSED"}}},
-      {"@type":"ListItem","position":3,"item":{"@type":"Product","name":"The Short-Sleeve Hoodie","image":"https://media.base44.com/images/public/6a59e07644b17116ea62b443/215e35a9f_generated_image.png","description":"Grey heavyweight short-sleeve hoodie with open side-entry hand pockets and giant X-stitch seams.","brand":{"@type":"Brand","name":"CROSSED"}}},
-      {"@type":"ListItem","position":4,"item":{"@type":"Product","name":"The Missions Edition Hoodie","image":"https://media.base44.com/images/public/6a59e07644b17116ea62b443/4ccd0e9a1_generated_image.png","description":"Forest green missions edition short-sleeve hoodie with back vent panel for the field.","brand":{"@type":"Brand","name":"CROSSED"}}},
-      {"@type":"ListItem","position":5,"item":{"@type":"Product","name":"The Performance Boxer Briefs","image":"https://media.base44.com/images/public/6a59e07644b17116ea62b443/c25b8bd2e_generated_image.png","description":"Grey performance boxer briefs with gripper cuffs, vent panel, trap-door fly and gold CROSSED stitching.","brand":{"@type":"Brand","name":"CROSSED"}}},
-      {"@type":"ListItem","position":6,"item":{"@type":"Product","name":"The Heirloom Viking Robe","image":"https://media.base44.com/images/public/6a59e07644b17116ea62b443/ae3146d50_generated_image.png","description":"Heavyweight grey full-length Viking robe with faux-fur hood, antler toggles and gold X-stitch seams.","brand":{"@type":"Brand","name":"CROSSED"}}},
-      {"@type":"ListItem","position":7,"item":{"@type":"Product","name":"The Obsidian Viking Robe","image":"https://media.base44.com/images/public/6a59e07644b17116ea62b443/ee83a8543_generated_image.png","description":"Jet black full-length Viking robe with dark fur hood, silver toggles and bronze-gold stitching.","brand":{"@type":"Brand","name":"CROSSED"}}},
-      {"@type":"ListItem","position":8,"item":{"@type":"Product","name":"The Bone Viking Robe","image":"https://media.base44.com/images/public/6a59e07644b17116ea62b443/b43fdca98_generated_image.png","description":"Bone-cream full-length Viking robe with off-white fur hood and gold cross-stitch seams.","brand":{"@type":"Brand","name":"CROSSED"}}},
-      {"@type":"ListItem","position":9,"item":{"@type":"Product","name":"The Chieftain Viking Robe","image":"https://media.base44.com/images/public/6a59e07644b17116ea62b443/bfa2d9d57_generated_image.png","description":"Deep charcoal ceremonial Viking robe with fur-lined standing collar and train hem.","brand":{"@type":"Brand","name":"CROSSED"}}}
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@type": "Product",
+          "name": "The Foundation Tee",
+          "image": "https://media.base44.com/images/public/6a59e07644b17116ea62b443/3d0070c17_generated_image.png",
+          "description": "Heavyweight tee with oversized exposed cross-stitch seams in cream and gold thread.",
+          "brand": {
+            "@type": "Brand",
+            "name": "CROSSED"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@type": "Product",
+          "name": "UnoWHO Hoodie",
+          "image": "https://media.base44.com/images/public/6a59e07644b17116ea62b443/94564c095_generated_image.png",
+          "description": "Heavyweight cream hoodie with UnoWHO lettering built from giant cross-stitch and royal crown.",
+          "brand": {
+            "@type": "Brand",
+            "name": "CROSSED"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@type": "Product",
+          "name": "The Short-Sleeve Hoodie",
+          "image": "https://media.base44.com/images/public/6a59e07644b17116ea62b443/215e35a9f_generated_image.png",
+          "description": "Grey heavyweight short-sleeve hoodie with open side-entry hand pockets and giant X-stitch seams.",
+          "brand": {
+            "@type": "Brand",
+            "name": "CROSSED"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "item": {
+          "@type": "Product",
+          "name": "The Missions Edition Hoodie",
+          "image": "https://media.base44.com/images/public/6a59e07644b17116ea62b443/4ccd0e9a1_generated_image.png",
+          "description": "Forest green missions edition short-sleeve hoodie with back vent panel for the field.",
+          "brand": {
+            "@type": "Brand",
+            "name": "CROSSED"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "item": {
+          "@type": "Product",
+          "name": "The Performance Boxer Briefs",
+          "image": "https://media.base44.com/images/public/6a59e07644b17116ea62b443/c25b8bd2e_generated_image.png",
+          "description": "Grey performance boxer briefs with gripper cuffs, vent panel, trap-door fly and gold CROSSED stitching.",
+          "brand": {
+            "@type": "Brand",
+            "name": "CROSSED"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "item": {
+          "@type": "Product",
+          "name": "The Heirloom Viking Robe",
+          "image": "https://media.base44.com/images/public/6a59e07644b17116ea62b443/ae3146d50_generated_image.png",
+          "description": "Heavyweight grey full-length Viking robe with faux-fur hood, antler toggles and gold X-stitch seams.",
+          "brand": {
+            "@type": "Brand",
+            "name": "CROSSED"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "item": {
+          "@type": "Product",
+          "name": "The Obsidian Viking Robe",
+          "image": "https://media.base44.com/images/public/6a59e07644b17116ea62b443/ee83a8543_generated_image.png",
+          "description": "Jet black full-length Viking robe with dark fur hood, silver toggles and bronze-gold stitching.",
+          "brand": {
+            "@type": "Brand",
+            "name": "CROSSED"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "item": {
+          "@type": "Product",
+          "name": "The Bone Viking Robe",
+          "image": "https://media.base44.com/images/public/6a59e07644b17116ea62b443/b43fdca98_generated_image.png",
+          "description": "Bone-cream full-length Viking robe with off-white fur hood and gold cross-stitch seams.",
+          "brand": {
+            "@type": "Brand",
+            "name": "CROSSED"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 9,
+        "item": {
+          "@type": "Product",
+          "name": "The Chieftain Viking Robe",
+          "image": "https://media.base44.com/images/public/6a59e07644b17116ea62b443/bfa2d9d57_generated_image.png",
+          "description": "Deep charcoal ceremonial Viking robe with fur-lined standing collar and train hem.",
+          "brand": {
+            "@type": "Brand",
+            "name": "CROSSED"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 10,
+        "item": {
+          "@type": "Product",
+          "name": "The Runework Viking Robe",
+          "image": "https://media.base44.com/images/public/6a59e07644b17116ea62b443/19cff8b58_generated_image.png",
+          "description": "Grey Viking robe with geometric Norse diamond patterns in giant X-stitch and baby-blue silk lining.",
+          "brand": {
+            "@type": "Brand",
+            "name": "CROSSED"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 11,
+        "item": {
+          "@type": "Product",
+          "name": "The Skybound Viking Robe",
+          "image": "https://media.base44.com/images/public/6a59e07644b17116ea62b443/5e74a27e4_generated_image.png",
+          "description": "Blue-grey Viking robe with geometric chevron bands and baby-blue silk-lined hood.",
+          "brand": {
+            "@type": "Brand",
+            "name": "CROSSED"
+          }
+        }
+      }
     ]
   }
 }
