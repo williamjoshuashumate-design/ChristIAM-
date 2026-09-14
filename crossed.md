@@ -1,8 +1,10 @@
 ---
 layout: default
 title: "CROSSED — The Stitching Holds It Together"
-description: "The CROSSED apparel label: garments built around oversized, visible structural stitching — the thread that holds it together, made the whole point of the piece."
+description: "The CROSSED apparel label: heavyweight hoodies, tees, robes and boxer briefs built around oversized, visible structural stitching. Buy one, give one free — every piece you buy clothes someone in need."
 permalink: /crossed/
+image: "https://media.base44.com/images/public/6a59e07644b17116ea62b443/ae3146d50_generated_image.png"
+keywords: "CROSSED apparel, heavyweight embroidered hoodie, exposed stitching streetwear, buy one give one clothing, Christian apparel brand, Viking robe"
 ---
 
 <section class="page-header">
@@ -106,6 +108,60 @@ permalink: /crossed/
   </article>
 </section>
 
+
+<section class="gallery-intro">
+  <div class="intro-content">
+    <h2>The Viking Robe Collection</h2>
+    <p>Four full-length robes with Viking flair and a modern structured cut — fur-trimmed hoods, antler-horn toggles, Norse knotwork, and the CROSSED thread holding every seam together.</p>
+  </div>
+</section>
+
+<section class="gallery-grid">
+  <article class="art-card featured">
+    <div class="art-image">
+      <img src="https://media.base44.com/images/public/6a59e07644b17116ea62b443/ae3146d50_generated_image.png" alt="CROSSED Viking robe in heavyweight grey with faux-fur hood, antler toggles and giant gold X-stitch seams" loading="lazy">
+    </div>
+    <div class="art-info">
+      <h3>The Heirloom Robe</h3>
+      <p class="art-date">Heavyweight grey · faux-fur hood · antler toggles</p>
+      <p>The lead colorway. Full-length modern cut, structured shoulders, grey faux-fur hood, gold and cream giant X-stitch on every structural seam.</p>
+    </div>
+  </article>
+
+  <article class="art-card">
+    <div class="art-image">
+      <img src="https://media.base44.com/images/public/6a59e07644b17116ea62b443/ee83a8543_generated_image.png" alt="CROSSED Viking robe in jet black with dark fur hood and bronze-gold X-stitch seams" loading="lazy">
+    </div>
+    <div class="art-info">
+      <h3>The Obsidian Robe</h3>
+      <p class="art-date">Jet black · dark charcoal fur · bronze-gold stitch</p>
+      <p>The night build. Black heavyweight fabric, silver-toned antler toggles, bronze-gold thread through every seam.</p>
+    </div>
+  </article>
+
+  <article class="art-card">
+    <div class="art-image">
+      <img src="https://media.base44.com/images/public/6a59e07644b17116ea62b443/b43fdca98_generated_image.png" alt="CROSSED Viking robe in bone-cream with off-white fur hood and gold cross-stitch seams" loading="lazy">
+    </div>
+    <div class="art-info">
+      <h3>The Bone Robe</h3>
+      <p class="art-date">Bone-cream · off-white fur · natural horn toggles</p>
+      <p>The light statement. Cream heavyweight fabric with natural horn toggles and gold and grey X-stitch throughout.</p>
+    </div>
+  </article>
+
+  <article class="art-card">
+    <div class="art-image">
+      <img src="https://media.base44.com/images/public/6a59e07644b17116ea62b443/bfa2d9d57_generated_image.png" alt="CROSSED Viking ceremonial robe in deep charcoal with fur-lined standing collar and train hem" loading="lazy">
+    </div>
+    <div class="art-info">
+      <h3>The Chieftain Robe</h3>
+      <p class="art-date">Deep charcoal · standing fur collar · train hem</p>
+      <p>The hero piece. Fur-lined standing collar instead of a hood, a dramatic train hem, and cream and gold X-stitch on every seam.</p>
+    </div>
+  </article>
+</section>
+
 <section class="gallery-grid">
   <article class="art-card">
     <div class="art-image">
@@ -126,3 +182,30 @@ permalink: /crossed/
     <p class="signature-author">Will IAM JOSHUA</p>
   </div>
 </section>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Brand",
+  "name": "CROSSED",
+  "slogan": "The Stitching Holds It Together",
+  "description": "CROSSED apparel label — heavyweight garments built around oversized, visible structural stitching. Buy one, give one free: every piece purchased gives a piece to someone in need.",
+  "url": "https://williamjoshuashumate-design.github.io/ChristIAM-/crossed/",
+  "logo": "https://media.base44.com/images/public/6a59e07644b17116ea62b443/ae3146d50_generated_image.png",
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "CROSSED Collection",
+    "itemListElement": [
+      {"@type":"ListItem","position":1,"item":{"@type":"Product","name":"The Foundation Tee","image":"https://media.base44.com/images/public/6a59e07644b17116ea62b443/3d0070c17_generated_image.png","description":"Heavyweight tee with oversized exposed cross-stitch seams in cream and gold thread.","brand":{"@type":"Brand","name":"CROSSED"}}},
+      {"@type":"ListItem","position":2,"item":{"@type":"Product","name":"UnoWHO Hoodie","image":"https://media.base44.com/images/public/6a59e07644b17116ea62b443/94564c095_generated_image.png","description":"Heavyweight cream hoodie with UnoWHO lettering built from giant cross-stitch and royal crown.","brand":{"@type":"Brand","name":"CROSSED"}}},
+      {"@type":"ListItem","position":3,"item":{"@type":"Product","name":"The Short-Sleeve Hoodie","image":"https://media.base44.com/images/public/6a59e07644b17116ea62b443/215e35a9f_generated_image.png","description":"Grey heavyweight short-sleeve hoodie with open side-entry hand pockets and giant X-stitch seams.","brand":{"@type":"Brand","name":"CROSSED"}}},
+      {"@type":"ListItem","position":4,"item":{"@type":"Product","name":"The Missions Edition Hoodie","image":"https://media.base44.com/images/public/6a59e07644b17116ea62b443/4ccd0e9a1_generated_image.png","description":"Forest green missions edition short-sleeve hoodie with back vent panel for the field.","brand":{"@type":"Brand","name":"CROSSED"}}},
+      {"@type":"ListItem","position":5,"item":{"@type":"Product","name":"The Performance Boxer Briefs","image":"https://media.base44.com/images/public/6a59e07644b17116ea62b443/c25b8bd2e_generated_image.png","description":"Grey performance boxer briefs with gripper cuffs, vent panel, trap-door fly and gold CROSSED stitching.","brand":{"@type":"Brand","name":"CROSSED"}}},
+      {"@type":"ListItem","position":6,"item":{"@type":"Product","name":"The Heirloom Viking Robe","image":"https://media.base44.com/images/public/6a59e07644b17116ea62b443/ae3146d50_generated_image.png","description":"Heavyweight grey full-length Viking robe with faux-fur hood, antler toggles and gold X-stitch seams.","brand":{"@type":"Brand","name":"CROSSED"}}},
+      {"@type":"ListItem","position":7,"item":{"@type":"Product","name":"The Obsidian Viking Robe","image":"https://media.base44.com/images/public/6a59e07644b17116ea62b443/ee83a8543_generated_image.png","description":"Jet black full-length Viking robe with dark fur hood, silver toggles and bronze-gold stitching.","brand":{"@type":"Brand","name":"CROSSED"}}},
+      {"@type":"ListItem","position":8,"item":{"@type":"Product","name":"The Bone Viking Robe","image":"https://media.base44.com/images/public/6a59e07644b17116ea62b443/b43fdca98_generated_image.png","description":"Bone-cream full-length Viking robe with off-white fur hood and gold cross-stitch seams.","brand":{"@type":"Brand","name":"CROSSED"}}},
+      {"@type":"ListItem","position":9,"item":{"@type":"Product","name":"The Chieftain Viking Robe","image":"https://media.base44.com/images/public/6a59e07644b17116ea62b443/bfa2d9d57_generated_image.png","description":"Deep charcoal ceremonial Viking robe with fur-lined standing collar and train hem.","brand":{"@type":"Brand","name":"CROSSED"}}}
+    ]
+  }
+}
+</script>
